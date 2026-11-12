@@ -307,12 +307,94 @@ def style_stack(a, label, c1, c2, em, logo):
     return img
 
 
-STYLES = {"split": style_split, "neon": style_neon, "stack": style_stack}
+# ---------------------------------------------------------------- STYLE: PHOTO
+def cover(im, w, h, focus_y=0.35):
+    s = max(w / im.width, h / im.height)
+    im = im.resize((int(im.width * s) + 1, int(im.height * s) + 1), Image.LANCZOS)
+    x = (im.width - w) // 2
+    y = int((im.height - h) * focus_y)
+    return im.crop((x, y, x + w, y + h))
+
+
+def style_photo(a, label, c1, c2, em, logo):
+    """Big real photo on top, dark fade, bold headline with highlighted words."""
+    NAV = (7, 14, 30)
+    img = Image.new("RGBA", (W, H), NAV + (255,))
+    ph_h = 900
+    if a.photo and os.path.exists(a.photo):
+        ph = Image.open(a.photo).convert("RGB")
+        ph = cover(ph, W, ph_h, a.focus)
+    else:  # placeholder
+        ph = gradient(W, ph_h, (60, 70, 90), (25, 30, 45))
+        pd = ImageDraw.Draw(ph)
+        pd.text((W // 2, ph_h // 2), "PHOTO GOES HERE", font=font(64, "black"), fill=(140, 150, 170), anchor="mm")
+    img.paste(ph, (0, 0))
+    # dark fade from photo into navy + top shade for logo
+    fade_l = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    fd = ImageDraw.Draw(fade_l)
+    for y in range(H):
+        if y < 220:
+            al = int(150 * (1 - y / 220))
+        elif y < 430:
+            al = 0
+        elif y < ph_h:
+            al = int(255 * ((y - 430) / (ph_h - 430)) ** 1.3)
+        else:
+            al = 255
+        fd.line([(0, y), (W, y)], fill=NAV + (al,))
+    img = Image.alpha_composite(img, fade_l)
+    d = ImageDraw.Draw(img)
+    # thin accent frame on left
+    d.rectangle([0, 0, 12, H], fill=c1)
+    logo_block(img, 46, 40, logo)
+    words = parse_words(a.headline)
+    f, size, lines = fit_headline(d, words, W - 110, 4, 84, 50)
+    lh = int(size * 1.08)
+    sub_h = 0
+    if a.sub:
+        sub_lines = wrap_plain(d, a.sub, font(34, "semi"), W - 110)[:2]
+        sub_h = 26 + len(sub_lines) * 46
+    y = H - 110 - sub_h - len(lines) * lh
+    # tags above headline
+    if not a.no_tags:
+        tags(d, 52, y - 80, a, label, c1)
+    # highlighted words get a coloured block behind them (marker look)
+    sp = d.textlength(" ", font=f)
+    yy = y
+    for ln in lines:
+        xx = 52
+        for w_, h_ in ln:
+            tw = d.textlength(w_, font=f)
+            if h_:
+                d.rectangle([xx - 8, yy + int(size * 0.10), xx + tw + 8, yy + int(size * 1.08)], fill=c1)
+                d.text((xx, yy), w_, font=f, fill=NAV)
+            else:
+                d.text((xx, yy), w_, font=f, fill=WHITE)
+            xx += tw + sp
+        yy += lh
+    if a.sub:
+        yy += 26
+        for ln in sub_lines:
+            d.text((52, yy), ln, font=font(34, "semi"), fill=(200, 210, 228))
+            yy += 46
+    # footer
+    d.rectangle([0, H - 66, W, H], fill=c1)
+    d.text((52, H - 33), "GLOBAL EYE", font=font(26, "black"), fill=NAV, anchor="lm")
+    d.text((W - 40, H - 33), "FULL STORY IN THE CAPTION  ↓", font=font(24, "xbold"), fill=NAV, anchor="rm")
+    if a.credit:
+        cf = font(20, "med")
+        tw = d.textlength("Photo: " + a.credit, font=cf)
+        d.rectangle([W - tw - 46, 112, W - 26, 146], fill=(0, 0, 0))
+        d.text((W - 36, 129), "Photo: " + a.credit, font=cf, fill=(220, 220, 220), anchor="rm")
+    return img
+
+
+STYLES = {"split": style_split, "neon": style_neon, "stack": style_stack, "photo": style_photo}
 
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--style", default="split", choices=STYLES.keys())
+    ap.add_argument("--style", default="photo", choices=STYLES.keys())
     ap.add_argument("--category", required=True, choices=CATS.keys())
     ap.add_argument("--headline", required=True)
     ap.add_argument("--sub", default="")
@@ -320,6 +402,9 @@ def main():
     ap.add_argument("--logo", default=os.path.join(HERE, "logo.png"))
     ap.add_argument("--breaking", action="store_true")
     ap.add_argument("--no-tags", action="store_true")
+    ap.add_argument("--photo", default="")
+    ap.add_argument("--focus", type=float, default=0.30, help="0=keep top of photo, 1=keep bottom")
+    ap.add_argument("--credit", default="")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
     label, c1, c2, de = CATS[a.category]
