@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-11-13 03:30 PKT",
+    "headline": "Nvidia CEO Jensen Huang resigns after 33 years",
+    "category": "tech",
+    "image": "posts/2026-11-13-nvidia-huang-resigns.jpg",
+    "fb_post_id": "1401152919753922_122103898299543069",
+    "sources": [
+      "https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256",
+      "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+      "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
+    ]
+  }
+]
