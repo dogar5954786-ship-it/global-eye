@@ -41,7 +41,10 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
 
 ## 4. Prepare the story and ask Abdullah for the photo
 - slug: `<YYYY-MM-DD>-<short-words>`.
-- Write: headline (max ~9 words, 1-3 key words in [brackets]), sub line (max ~8 words), category, breaking yes/no,
+- Write: headline in the Startup-Pakistan style: a short hook first, then the facts, max ~14 words, e.g.
+  "[Big Shake-Up!] Nvidia CEO Jensen Huang Resigns After [33 Years]". Put the hook and the key number/name in
+  [brackets] (they get colour blocks; max 2-3 bracketed parts). Title Case. Hook must be true, not clickbait.
+  Then: sub line (max ~8 words), category, breaking yes/no,
   full caption (format below), and **photo_needed** = exactly what the photo should show
   (e.g. "Jensen Huang, face clearly visible" / "Nvidia headquarters or logo sign" / "Pakistan team celebrating").
 - Create `inbox/<slug>/README.md` with the photo_needed text (so the folder exists for uploading).
@@ -96,7 +99,7 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
 ## 5. Build the picture and publish
 ```
 python3 render_post.py --style photo --category <tech|sports|politics|climate|world> [--breaking] \
-  --headline "<headline with [key words]>" --sub "<sub>" \
+  --headline "<headline with [key words]>" \
   --photo inbox/<slug>/<file> [--focus 0.0-1.0] [--credit "<credit>"] \
   --out posts/<slug>.jpg
 ```
