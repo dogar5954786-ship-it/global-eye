@@ -312,7 +312,7 @@ STYLES = {"split": style_split, "neon": style_neon, "stack": style_stack}
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--style", default="neon", choices=STYLES.keys())
+    ap.add_argument("--style", default="split", choices=STYLES.keys())
     ap.add_argument("--category", required=True, choices=CATS.keys())
     ap.add_argument("--headline", required=True)
     ap.add_argument("--sub", default="")
