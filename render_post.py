@@ -66,9 +66,10 @@ def main():
     ap.add_argument("--headline", required=True)
     ap.add_argument("--sub", default="")
     ap.add_argument("--emoji", default="")
-    ap.add_argument("--logo", default="logo.png")
+    ap.add_argument("--logo", default="logo-eye.png")
     ap.add_argument("--date", default=datetime.date.today().strftime("%d %B %Y"))
     ap.add_argument("--breaking", action="store_true")
+    ap.add_argument("--no-tags", action="store_true")
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
 
@@ -114,9 +115,9 @@ def main():
     # Top bar: logo + page name
     if os.path.exists(a.logo):
         lg = Image.open(a.logo).convert("RGBA")
-        lg.thumbnail((110, 110), Image.LANCZOS)
-        img.alpha_composite(lg, (60, 60 + (110 - lg.height) // 2))
-        name_x = 60 + lg.width + 24
+        lg.thumbnail((150, 110), Image.LANCZOS)
+        img.alpha_composite(lg, (52, 60 + (110 - lg.height) // 2))
+        name_x = 52 + lg.width + 22
     else:
         name_x = 60
     d.text((name_x, 82), "GLOBAL EYE", font=font(["Inter-Black.otf", "Poppins-Bold.ttf"], 46), fill=WHITE)
@@ -125,14 +126,17 @@ def main():
     # Category pill (+ BREAKING pill)
     fpill = font(["Inter-ExtraBold.otf", "Poppins-Bold.ttf"], 30)
     x, y = 60, 600
-    if a.breaking:
+    if a.no_tags:
+        pass
+    elif a.breaking:
         tw = d.textlength("BREAKING", font=fpill)
         d.rounded_rectangle([x, y, x + tw + 44, y + 58], 29, fill=(230, 40, 50))
         d.text((x + 22, y + 29), "BREAKING", font=fpill, fill=WHITE, anchor="lm")
         x += tw + 44 + 16
-    tw = d.textlength(label, font=fpill)
-    d.rounded_rectangle([x, y, x + tw + 44, y + 58], 29, fill=accent)
-    d.text((x + 22, y + 29), label, font=fpill, fill=NAVY, anchor="lm")
+    if not a.no_tags:
+        tw = d.textlength(label, font=fpill)
+        d.rounded_rectangle([x, y, x + tw + 44, y + 58], 29, fill=accent)
+        d.text((x + 22, y + 29), label, font=fpill, fill=NAVY, anchor="lm")
 
     # Headline: shrink font until it fits in 5 lines
     maxw = W - 120
@@ -161,8 +165,7 @@ def main():
     d.rectangle([0, H - 96, W, H], fill=(5, 12, 26))
     d.rectangle([0, H - 96, W, H - 92], fill=accent)
     ff = font(["Inter-SemiBold.otf", "Inter-Medium.otf"], 28)
-    d.text((60, H - 48), a.date, font=ff, fill=SOFT, anchor="lm")
-    d.text((W - 60, H - 48), "Full story in the caption 👇".replace(" 👇", ""), font=ff, fill=WHITE, anchor="rm")
+    d.text((W // 2, H - 48), "Full story in the caption", font=ff, fill=WHITE, anchor="mm")
 
     img.convert("RGB").save(a.out, "JPEG", quality=90)
     print(a.out, os.path.getsize(a.out))
