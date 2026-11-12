@@ -36,7 +36,7 @@ def font(size, weight="black"):
         "semi": ["Inter-SemiBold.otf", "Inter-Medium.otf", "DejaVuSans.ttf"],
         "med": ["Inter-Medium.otf", "Inter-Regular.otf", "DejaVuSans.ttf"],
     }[weight]
-    dirs = ["/usr/share/fonts/opentype/inter/", "/usr/share/fonts/truetype/google-fonts/",
+    dirs = [os.path.join(HERE, "fonts") + "/", "/usr/share/fonts/opentype/inter/", "/usr/share/fonts/truetype/google-fonts/",
             "/usr/share/fonts/truetype/dejavu/"]
     for n in names:
         for d in dirs:

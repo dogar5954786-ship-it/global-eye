@@ -2,7 +2,7 @@
 
 Global Eye is a Facebook page (page id `1401152919753922`) that posts important world updates in
 **tech, sports, politics and climate/weather**. A scheduled task runs this runbook **every hour, 7 AM – 11 PM
-Pakistan time (PKT, UTC+5)**. Every post has a big real photo of the main person / company / place.
+Pakistan time (PKT, UTC+5)** to find news and email photo requests. Every post has a big real photo of the main person / company / place.
 Claude never downloads photos of people from the web: **Abdullah supplies every photo** by uploading it to
 `inbox/<slug>/` in this repo. The bot does everything else.
 
@@ -16,14 +16,23 @@ Files:
 Clone this repo (push access). `git config user.name "Global Eye Bot"; git config user.email noreply@anthropic.com`.
 Always `git pull --rebase` before changing files; commit + push after each step.
 
-## 1. Publish stories whose photo has arrived
-For each entry in `pending.json`:
-- Look in `inbox/<slug>/` for an image file (ignore README/.keep). Use the newest one.
-- If found: build the picture, publish (section 5), move the entry to `posted.json` with `fb_post_id`, delete it from
-  `pending.json`, then send a short reply in the story's email thread: "[Global Eye bot] Posted: <headline>".
-  If the git log message of the upload commit is not GitHub's default ("Add files via upload"), use it as the photo credit.
-- If no photo and the entry is older than **8 hours**: the news is stale. Move it to `posted.json` with
-  `"status": "expired"`, remove from `pending.json`. No email.
+## 1. Photos and publishing (mostly automatic)
+Publishing is done by GitHub Actions + Zapier, not by this bot:
+- When Abdullah uploads a photo to `inbox/<slug>/`, the workflow `.github/workflows/publish.yml` runs
+  `publish_ready.py`: it renders `posts/<slug>.jpg`, adds an item to `feed.xml`, and moves the story from
+  `pending.json` to `posted.json` (status `sent_to_facebook_via_zapier`).
+- A Zapier Zap ("RSS by Zapier: New Item in Feed" on feed.xml -> "Facebook Pages: Create Page Post") posts it
+  to the page within ~15 minutes.
+This bot's only jobs here:
+- Safety net: if a pending story already has a photo in `inbox/<slug>/` (the workflow failed), run
+  `python3 publish_ready.py`, open the new `posts/<slug>.jpg` with the Read tool to check it, then commit + push
+  `posts pending.json posted.json feed.xml feed_items.json`. Zapier will post it.
+- Check recent items in posted.json with status `sent_to_facebook_via_zapier`: open each new picture with the Read tool;
+  if the main subject is badly cropped, mention it in the final note (it is already posted; do not repost).
+- If a story has no photo and is older than **8 hours**: move it to `posted.json` with `"status": "expired"`,
+  remove it from `pending.json`. No email.
+- Story fields the workflow uses: `slug, headline, category, breaking, caption, focus` (focus 0-1, default 0.3:
+  which part of the photo to keep; use ~0.2 for portraits so faces stay visible).
 
 ## 2. Find news (only on even hours: 8, 10, 12 ... 22 PKT, and on the first run of the day)
 - WebSearch ("extended" mode for fresh news): world/politics, tech, sports (football, cricket, Olympics, F1, tennis...),
@@ -65,7 +74,7 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
   https://github.com/dogar5954786-ship-it/global-eye/upload/main/inbox/<slug>
   (Optional: type the photo credit, e.g. "Reuters", in the commit message box.)
 
-  The post goes live within 1 hour after you upload. If no photo arrives within 8 hours, the story is skipped.
+  The post goes live on Facebook about 15 minutes after you upload. If no photo arrives within 8 hours, the story is skipped.
 
   Preview (with empty photo space):
   https://raw.githubusercontent.com/dogar5954786-ship-it/global-eye/main/posts/preview-<slug>.jpg
@@ -96,7 +105,7 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
   #GlobalEye #<topic> #<names> (4-7 hashtags)
   ```
 
-## 5. Build the picture and publish
+## 5. Manual publish (only if Zapier is not working)
 ```
 python3 render_post.py --style photo --category <tech|sports|politics|climate|world> [--breaking] \
   --headline "<headline with [key words]>" \

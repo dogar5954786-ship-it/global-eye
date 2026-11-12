@@ -1,0 +1,36 @@
+name: Publish posts when a photo is uploaded
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "inbox/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python publish_ready.py
+      - name: Save results
+        run: |
+          git config user.name "Global Eye Bot"
+          git config user.email "noreply@anthropic.com"
+          git add -A posts pending.json posted.json feed.xml feed_items.json || true
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "Ready to post: $(date -u +%H:%M) UTC"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done

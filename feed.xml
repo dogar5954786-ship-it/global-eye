@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Global Eye - ready posts</title>
+<link>https://github.com/dogar5954786-ship-it/global-eye</link>
+<description>Posts ready for the Global Eye Facebook page</description>
+<item>
+<title>Nvidia CEO Jensen Huang resigns after 33 years</title>
+<link>https://raw.githubusercontent.com/dogar5954786-ship-it/global-eye/main/posts/2026-11-13-nvidia-huang-resigns.jpg</link>
+<guid isPermaLink="false">2026-11-13-nvidia-huang-resigns</guid>
+<pubDate>Fri, 13 Nov 2026 03:30:00 +0500</pubDate>
+<description><![CDATA[(already posted - setup sample)]]></description>
+<enclosure url="https://raw.githubusercontent.com/dogar5954786-ship-it/global-eye/main/posts/2026-11-13-nvidia-huang-resigns.jpg" type="image/jpeg" length="158384"/>
+</item>
+</channel>
+</rss>
