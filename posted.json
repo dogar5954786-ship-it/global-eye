@@ -69,5 +69,24 @@
     "status": "sent_to_facebook_via_zapier",
     "image": "posts/2026-11-13-iran-bahrain-us-radar.jpg",
     "rendered": "2026-11-13 14:47 PKT"
+  },
+  {
+    "slug": "2026-11-13-trump-tim-cook-nvidia",
+    "created": "2026-11-13 07:15 PKT",
+    "headline": "[New Twist!] Trump Says [Tim Cook] Should Replace Jensen Huang as Nvidia CEO",
+    "sub": "Huang agrees to testify before Congress",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "💻 Trump says Tim Cook should lead Nvidia\n\nUS President Donald Trump said on Thursday that Apple's Tim Cook should become the new CEO of Nvidia, after Jensen Huang stepped down. In a post on Truth Social, Trump wrote that there is \"only one man\" to take Huang's place and called it \"A Legend replaces a Legend!\"\n\n🔹 Nvidia has named its finance chief, Colette Kress, as interim CEO while its board looks for a permanent leader.\n🔹 Tim Cook stepped down as Apple CEO in September and is now executive chairman of Apple's board.\n🔹 Huang has agreed to testify before US lawmakers in a closed-door session by Thanksgiving, House Foreign Affairs Committee chairman Brian Mast said.\n\n💬 Who do you think should lead Nvidia next? 👇\n\nSources: NBC News, Fox Business, TechCrunch\n\n#GlobalEye #Nvidia #TimCook #JensenHuang #Trump #Tech",
+    "photo_needed": "Tim Cook, face clearly visible (e.g. at an Apple event). A photo of Tim Cook with Trump also works.",
+    "sources": [
+      "https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767",
+      "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
+      "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    ],
+    "email_thread_id": "1a1d2a8fdcb0e81e",
+    "status": "expired"
   }
 ]
