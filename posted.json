@@ -129,5 +129,24 @@
     "image": "posts/2026-11-13-nz-crush-india-89.jpg",
     "rendered": "2026-11-13 19:37 PKT",
     "status": "sent_to_facebook_via_zapier"
+  },
+  {
+    "slug": "2026-11-13-pope-leo-chiclayo",
+    "created": "2026-11-13 20:40 PKT",
+    "headline": "[Big Homecoming!] Pope Leo Returns to the Peru City He Led as [Bishop]",
+    "sub": "Up to 1 million expected at his Mass",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "🙏 Pope Leo Returns to the Peru City He Led as Bishop\n\nPope Leo XIV arrived in Chiclayo, Peru, on Friday for an outdoor Mass in the city where he served as bishop for eight years. Local officials said up to 1 million people could attend.\n\n🔹 Before becoming pope, Leo (born Robert Prevost in Chicago) worked in Peru for about 20 years as a missionary priest and bishop.\n🔹 In Lima on Wednesday, about 3 million people came out to see him, the biggest crowd of his papacy so far, Reuters reported.\n🔹 Peru is the last stop of his 12-day South America trip, after Argentina and Uruguay. He stays in the Chiclayo area until Sunday.\n\n💬 Have you ever seen the Pope in person? 👇\n\nSources: Reuters, AP\n\n#GlobalEye #PopeLeo #PopeLeoXIV #Peru #Chiclayo #Vatican",
+    "photo_needed": "Pope Leo XIV, face clearly visible (best: greeting the crowds in Peru, waving from the popemobile).",
+    "sources": [
+      "https://www.yahoo.com/news/articles/peruvians-flock-see-pope-leo-100248819.html",
+      "https://www.clickondetroit.com/news/world/2026/11/13/perus-chiclayo-welcomes-its-former-shepherd-home-and-revels-in-popes-love/"
+    ],
+    "email_thread_id": "1a1d58a847a38b7d",
+    "status": "sent_to_facebook_via_zapier",
+    "image": "posts/2026-11-13-pope-leo-chiclayo.jpg",
+    "rendered": "2026-11-13 20:44 PKT"
   }
 ]
