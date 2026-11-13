@@ -29,5 +29,25 @@
     "email_thread_id": "1a1d2037cebd1d48",
     "status": "expired",
     "expired_at": "2026-11-13 12:13 PKT"
+  },
+  {
+    "slug": "2026-11-13-microsoft-365-outage",
+    "created": "2026-11-13 10:15 PKT",
+    "headline": "[Global Outage!] Microsoft Outlook and Teams Go Down for [5+ Hours]",
+    "sub": "Over 138,000 problem reports at peak",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.4,
+    "caption": "💻 Microsoft Outlook and Teams down for hours\n\nA major Microsoft 365 outage disrupted Outlook email, Teams and other Microsoft services for more than five hours on Thursday, Reuters reported. Problems began around 12:30 p.m. US Eastern time, and Microsoft said users in any region could be affected.\n\n🔹 Problem reports for Outlook on Downdetector peaked at more than 138,000, according to Reuters.\n🔹 Microsoft said a number of servers became unexpectedly unavailable because of elevated load, mainly hitting Exchange Online email.\n🔹 Microsoft said it was returning servers to service and moving traffic, and warned that recovery would be gradual as users reconnect.\n\n💬 Were you affected by the Microsoft outage? 👇\n\nSources: Reuters, ABC News\n\n#GlobalEye #Microsoft #Outlook #Teams #Outage #Tech",
+    "photo_needed": "Microsoft logo sign or Microsoft office building (no people needed). A clear photo of the Outlook or Teams logo on a screen also works.",
+    "sources": [
+      "https://ca.finance.yahoo.com/news/microsoft-outage-drags-hours-disrupting-233132055.html",
+      "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+      "https://www.techradar.com/news/live/outlook-outage-nov-2026"
+    ],
+    "email_thread_id": "1a1d353262efca3e",
+    "status": "sent_to_facebook_via_zapier",
+    "image": "posts/2026-11-13-microsoft-365-outage.jpg",
+    "rendered": "2026-11-13 12:58 PKT"
   }
 ]
