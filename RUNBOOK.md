@@ -16,23 +16,27 @@ Files:
 Clone this repo (push access). `git config user.name "Global Eye Bot"; git config user.email noreply@anthropic.com`.
 Always `git pull --rebase` before changing files; commit + push after each step.
 
-## 1. Photos and publishing (mostly automatic)
-Publishing is done by GitHub Actions + Zapier, not by this bot:
-- When Abdullah uploads a photo to `inbox/<slug>/`, the workflow `.github/workflows/publish.yml` runs
-  `publish_ready.py`: it renders `posts/<slug>.jpg`, adds an item to `feed.xml`, and moves the story from
-  `pending.json` to `posted.json` (status `sent_to_facebook_via_zapier`).
-- A Zapier Zap ("RSS by Zapier: New Item in Feed" on feed.xml -> "Facebook Pages: Create Page Post") posts it
-  to the page within ~15 minutes.
-This bot's only jobs here:
-- Safety net: if a pending story already has a photo in `inbox/<slug>/` (the workflow failed), run
-  `python3 publish_ready.py`, open the new `posts/<slug>.jpg` with the Read tool to check it, then commit + push
-  `posts pending.json posted.json feed.xml feed_items.json`. Zapier will post it.
-- Check recent items in posted.json with status `sent_to_facebook_via_zapier`: open each new picture with the Read tool;
-  if the main subject is badly cropped, mention it in the final note (it is already posted; do not repost).
-- If a story has no photo and is older than **8 hours**: move it to `posted.json` with `"status": "expired"`,
-  remove it from `pending.json`. No email.
-- Story fields the workflow uses: `slug, headline, category, breaking, caption, focus` (focus 0-1, default 0.3:
-  which part of the photo to keep; use ~0.2 for portraits so faces stay visible).
+## 1. Publish ready stories (do this FIRST, every run)
+When Abdullah uploads a photo to `inbox/<slug>/`, the GitHub workflow `.github/workflows/publish.yml` runs
+`publish_ready.py`: it renders `posts/<slug>.jpg` and sets the story in `pending.json` to `"status": "ready"`
+(with `image` and `image_url`). This bot posts it:
+- Safety net first: if a pending story has a photo in `inbox/<slug>/` but is not `ready` (workflow failed), run
+  `python3 publish_ready.py`, then commit + push.
+- For every `ready` story:
+  1. Open `posts/<slug>.jpg` with the Read tool. Check the main subject is visible and the text fits. If badly cropped,
+     re-render with a better `--focus` (see section 5), push, and use the new picture.
+  2. Check the raw URL returns 200 (wait ~10 s after a push).
+  3. Post with Zapier → Facebook Pages "Create Page Post" (`selected_api` FacebookV2CLIAPI, action `page_stream`,
+     tool_name `facebook_pages_create_page_post`): `page` = `1401152919753922`, `message` = caption,
+     `source` = [image_url], `save_as_draft` = "false".
+  4. Move the story from `pending.json` to `posted.json` with `"status": "posted"`, `fb_post_id`, `posted` time (PKT).
+     Commit + push right after each post (so it is never posted twice).
+  5. Reply in the story's email thread: "[Global Eye bot] Posted: <headline>".
+- If Facebook says the login/session is invalid: do not retry; email Abdullah once (subject "Global Eye - Facebook
+  needs reconnecting") with the link https://zapier.com/app/connections and keep the story `ready`.
+- A story with no photo older than **8 hours**: move it to `posted.json` with `"status": "expired"`. No email.
+- A `ready` story older than **10 hours** (from `created`): the news is stale; mark `"status": "expired"` instead of posting.
+- Story fields: `slug, headline, category, breaking, caption, focus` (focus 0-1, default 0.3; ~0.2 for portraits).
 
 ## 2. Find news (only on even hours: 8, 10, 12 ... 22 PKT, and on the first run of the day)
 - WebSearch ("extended" mode for fresh news): world/politics, tech, sports (football, cricket, Olympics, F1, tennis...),
@@ -74,7 +78,7 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
   https://github.com/dogar5954786-ship-it/global-eye/upload/main/inbox/<slug>
   (Optional: type the photo credit, e.g. "Reuters", in the commit message box.)
 
-  The post goes live on Facebook about 15 minutes after you upload. If no photo arrives within 8 hours, the story is skipped.
+  The post goes live on Facebook within about 1 hour after you upload. If no photo arrives within 8 hours, the story is skipped.
 
   Preview (with empty photo space):
   https://raw.githubusercontent.com/dogar5954786-ship-it/global-eye/main/posts/preview-<slug>.jpg
@@ -105,7 +109,7 @@ Limits: at most **2 new stories per run** and **8 per day** (posted + pending, P
   #GlobalEye #<topic> #<names> (4-7 hashtags)
   ```
 
-## 5. Manual publish (only if Zapier is not working)
+## 5. Re-rendering a picture
 ```
 python3 render_post.py --style photo --category <tech|sports|politics|climate|world> [--breaking] \
   --headline "<headline with [key words]>" \
@@ -117,12 +121,8 @@ python3 render_post.py --style photo --category <tech|sports|politics|climate|wo
   nothing overlaps. Adjust `--focus` and re-render if needed. If the uploaded file is not a usable photo, do not post;
   reply in the email thread asking for another photo (once).
 - Keep the JPEG under 4 MB.
-- Commit + push, wait ~10 s, check the raw URL returns 200:
-  `https://raw.githubusercontent.com/dogar5954786-ship-it/global-eye/main/posts/<slug>.jpg`
-- Zapier → Facebook Pages "Create Page Post" (`selected_api` FacebookV2CLIAPI, action `page_stream`,
-  tool_name `facebook_pages_create_page_post`): `page` = `1401152919753922`, `message` = caption,
-  `source` = [raw image URL], `save_as_draft` = "false".
+- Commit + push, then post as in section 1.
 
 ## 6. Errors
-- Facebook post fails → retry once; then keep the entry pending and note the error in the final message.
+- Facebook post fails → retry once (unless it is a login/session error, see section 1); then keep the entry `ready` and note the error in the final message.
 - Never delete Facebook posts, photos in inbox, or git history.

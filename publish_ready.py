@@ -3,8 +3,8 @@
 
 For every pending story that now has a photo:
   1. build the picture  -> posts/<slug>.jpg
-  2. add an item to feed.xml (Zapier reads this feed and posts it to Facebook)
-  3. move the story from pending.json to posted.json
+  2. mark the story in pending.json as "ready" (with the picture path)
+The hourly Claude bot then posts "ready" stories to Facebook.
 """
 import datetime, html, json, os, subprocess, sys
 from email.utils import format_datetime
@@ -76,6 +76,9 @@ def main():
     feed = load("feed_items.json", [])
     keep, done = [], 0
     for e in pending:
+        if e.get("status") == "ready":
+            keep.append(e)
+            continue
         ph = photo_for(e["slug"])
         if not ph:
             keep.append(e)
@@ -95,21 +98,13 @@ def main():
             keep.append(e)
             continue
         now = datetime.datetime.now(PKT)
-        feed.append({"guid": e["slug"], "title": e["headline"].replace("[", "").replace("]", ""),
-                     "caption": e["caption"], "image": RAW + out,
-                     "length": os.path.getsize(os.path.join(ROOT, out)),
-                     "pubDate": format_datetime(now)})
-        e2 = dict(e)
-        e2.update({"status": "sent_to_facebook_via_zapier", "image": out,
-                   "rendered": now.strftime("%Y-%m-%d %H:%M PKT")})
-        posted.append(e2)
+        e.update({"status": "ready", "image": out, "image_url": RAW + out,
+                  "rendered": now.strftime("%Y-%m-%d %H:%M PKT")})
+        keep.append(e)
         done += 1
         print("ready:", e["slug"])
     if done:
         save("pending.json", keep)
-        save("posted.json", posted)
-        save("feed_items.json", feed)
-        write_feed(feed)
     print("done:", done)
 
 
