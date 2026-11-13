@@ -46,7 +46,7 @@
       "https://www.techradar.com/news/live/outlook-outage-nov-2026"
     ],
     "email_thread_id": "1a1d353262efca3e",
-    "status": "sent_to_facebook_via_zapier",
+    "status": "not_posted_zap_error",
     "image": "posts/2026-11-13-microsoft-365-outage.jpg",
     "rendered": "2026-11-13 12:58 PKT"
   },
@@ -66,7 +66,7 @@
       "https://www.arabnews.com/middle-east/irans-guards-say-they-targeted-us-radar-system-in-bahrain-3011593"
     ],
     "email_thread_id": "1a1d42e10cf4c633",
-    "status": "sent_to_facebook_via_zapier",
+    "status": "not_posted_zap_error",
     "image": "posts/2026-11-13-iran-bahrain-us-radar.jpg",
     "rendered": "2026-11-13 14:47 PKT"
   },
@@ -105,8 +105,9 @@
       "https://thehill.com/homenews/administration/6217391-trump-wants-cuba-change/"
     ],
     "email_thread_id": "1a1d49e63e0faa50",
-    "status": "sent_to_facebook_via_zapier",
+    "status": "posted_manually_by_claude",
     "image": "posts/2026-11-13-trump-cuba-before-leaving.jpg",
-    "rendered": "2026-11-13 17:26 PKT"
+    "rendered": "2026-11-13 17:26 PKT",
+    "fb_post_id": "1401152919753922_122104569573543069"
   }
 ]
