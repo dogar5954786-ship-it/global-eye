@@ -1,0 +1,39 @@
+name: AI picture test
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "tests/prompts.json"
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Make test pictures
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - <<'EOF'
+          import json, subprocess, sys
+          tests = json.load(open("tests/prompts.json"))
+          for i, t in enumerate(tests):
+              bg = f"tests/bg-{i}.jpg"
+              r = subprocess.run([sys.executable, "ai_image.py", t["prompt"], bg, str(100 + i)])
+              if r.returncode: continue
+              subprocess.run([sys.executable, "render_post.py", "--style", "photo", "--category", t["category"],
+                              "--headline", t["headline"], "--photo", bg, "--focus", "0.3",
+                              "--credit", "AI illustration", "--out", f"tests/post-{i}.jpg"])
+          EOF
+      - run: |
+          git config user.name "Global Eye Bot"; git config user.email "noreply@anthropic.com"
+          git add tests; git commit -m "AI test pictures" || exit 0
+          git pull --rebase && git push
