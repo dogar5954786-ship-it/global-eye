@@ -1,8 +1,17 @@
 [
- {"category":"politics","headline":"[Tensions Rise!] Iran Says It Hit a [US Radar] in Bahrain",
-  "prompt":"A large white military early-warning radar dome on a desert coastline at dusk, thin smoke rising nearby, warm orange sky over the Persian Gulf, tense atmosphere. No people."},
- {"category":"tech","headline":"[Global Outage!] Microsoft Outlook and Teams Go Down for [5+ Hours]",
-  "prompt":"A frustrated office worker seen from behind, sitting at a desk in a modern open office, laptop screen showing a generic red error icon, other colleagues looking confused at their screens, cool blue lighting."},
- {"category":"sports","headline":"[Last-Ball Thriller!] Pakistan Clinch T20 Series in [Lahore]",
-  "prompt":"A packed cricket stadium at night under bright floodlights, cricket players in green kits celebrating in a huddle on the pitch seen from a distance, fireworks in the sky, crowd cheering. Faces not recognisable."}
+ {
+  "category": "politics",
+  "headline": "[Tensions Rise!] Iran Says It Hit a [US Radar] in Bahrain",
+  "prompt": "A large white military early-warning radar dome on a desert coastline at dusk, thin smoke rising nearby, warm orange sky over the Persian Gulf, tense atmosphere. No people. "
+ },
+ {
+  "category": "tech",
+  "headline": "[Global Outage!] Microsoft Outlook and Teams Go Down for [5+ Hours]",
+  "prompt": "A frustrated office worker seen from behind, sitting at a desk in a modern open office, laptop screen showing a generic red error icon, other colleagues looking confused at their screens, cool blue lighting."
+ },
+ {
+  "category": "sports",
+  "headline": "[Last-Ball Thriller!] Pakistan Clinch T20 Series in [Lahore]",
+  "prompt": "A packed cricket stadium at night under bright floodlights, cricket players in green kits celebrating in a huddle on the pitch seen from a distance, fireworks in the sky, crowd cheering. Faces not recognisable."
+ }
 ]

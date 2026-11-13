@@ -27,7 +27,8 @@ jobs:
           tests = json.load(open("tests/prompts.json"))
           for i, t in enumerate(tests):
               bg = f"tests/bg-{i}.jpg"
-              r = subprocess.run([sys.executable, "ai_image.py", t["prompt"], bg, str(100 + i)])
+              r = subprocess.run([sys.executable, "ai_image.py", t["prompt"], bg, str(100 + i)], capture_output=True, text=True)
+              open("tests/log.txt", "a").write(f"{i}: {r.stdout} {r.stderr[-800:]}\n")
               if r.returncode: continue
               subprocess.run([sys.executable, "render_post.py", "--style", "photo", "--category", t["category"],
                               "--headline", t["headline"], "--photo", bg, "--focus", "0.3",
