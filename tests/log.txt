@@ -1,0 +1,9 @@
+0: gemini failed, using pollinations: HTTP Error 429: Too Many Requests
+made with pollinations
+ 
+1: gemini failed, using pollinations: HTTP Error 429: Too Many Requests
+made with pollinations
+ 
+2: gemini failed, using pollinations: HTTP Error 429: Too Many Requests
+made with pollinations
+ 
