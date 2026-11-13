@@ -6,7 +6,7 @@ otherwise the free Pollinations.ai service.
 
 Usage: python3 ai_image.py "<prompt>" out.jpg [seed]
 """
-import base64, json, os, sys, time, urllib.parse, urllib.request
+import base64, json, os, sys, time, urllib.error, urllib.parse, urllib.request
 
 STYLE = (" Photorealistic editorial news photo, cinematic lighting, sharp focus, rich colour, "
          "portrait 4:5 framing with the main subject in the upper-middle part of the frame. "
@@ -19,7 +19,10 @@ def gemini(prompt, out, key):
     body = {"contents": [{"parts": [{"text": prompt + STYLE}]}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": "4:5"}}}
     req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
-    data = json.load(urllib.request.urlopen(req, timeout=120))
+    try:
+        data = json.load(urllib.request.urlopen(req, timeout=120))
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"HTTP {e.code}: {e.read().decode()[:600]}")
     for p in data["candidates"][0]["content"]["parts"]:
         if "inlineData" in p:
             open(out, "wb").write(base64.b64decode(p["inlineData"]["data"]))
