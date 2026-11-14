@@ -189,5 +189,27 @@
     "status": "sent_to_facebook_via_zapier",
     "image": "posts/2026-11-14-lutnick-agrees-to-testify.jpg",
     "rendered": "2026-11-14 07:22 PKT"
+  },
+  {
+    "slug": "2026-11-14-us-flights-grounded",
+    "created": "2026-11-14 08:15 PKT",
+    "headline": "[Rare Shutdown!] US Grounds Flights Nationwide for [4+ Hours]",
+    "sub": "Air traffic communication failure halts departures",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "✈️ Rare Shutdown: US Grounds Flights Nationwide for 4+ Hours\n\nThe US Federal Aviation Administration (FAA) stopped flights from taking off at all US airports on Friday afternoon, after a communication problem hit air traffic control centres across the country. Departures were halted for more than four hours before the FAA lifted the order late Friday.\n\n🔹 The FAA said the ground stop was ordered \"for reasons of safety\" after \"communication issues\" at multiple Air Route Traffic Control Centers. Technicians are still looking into the cause.\n🔹 By Friday evening, FlightAware showed more than 1,900 flights cancelled and over 10,000 delayed in the US. Delays are expected to continue.\n🔹 Officials said there was no sign of a \"nefarious\" act. It was the first nationwide ground stop since January 2023.\n\n💬 Have you ever been stuck at an airport because of a big delay? 👇\n\nSources: CBS News, ABC News, Al Jazeera, FAA\n\n#GlobalEye #FAA #Flights #USA #AirTravel #WorldNews",
+    "photo_needed": "A busy US airport departures board showing many delayed/cancelled flights, or planes parked at a US airport gate (no person needed). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+      "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+      "https://abc7news.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/entry/20039063/",
+      "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+      "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop",
+      "https://www.ms.now/news/faa-ground-stop-all-flights-nationwide"
+    ],
+    "email_thread_id": "1a1d80b5b43215ce",
+    "status": "expired",
+    "expired_at": "2026-11-14 17:11 PKT"
   }
 ]
