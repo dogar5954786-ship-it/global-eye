@@ -211,5 +211,26 @@
     "email_thread_id": "1a1d80b5b43215ce",
     "status": "expired",
     "expired_at": "2026-11-14 17:11 PKT"
+  },
+  {
+    "slug": "2026-11-14-us-measles-status",
+    "created": "2026-11-14 10:20 PKT",
+    "headline": "[Health Setback!] US Reportedly Loses Measles-Free Status After [26 Years]",
+    "sub": "Measles kept spreading for over a year",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🦠 Health Setback: US Reportedly Loses Measles-Free Status After 26 Years\n\nThe United States has lost its \"measles eliminated\" status, which it held since 2000, according to reports by Reuters and CNN on Friday. Reuters, citing the Wall Street Journal, said the Pan American Health Organization (PAHO) took the step because measles kept spreading in the US for more than a year.\n\n🔹 The CDC had counted 5,182 confirmed measles cases in 2026 as of Thursday, from 45 states, New York City and Washington, D.C. That is more than double the 2,289 cases in all of 2025.\n🔹 State health officials have reported at least 10 measles-related deaths in the US this year, after two more were reported in Pennsylvania and Wisconsin.\n🔹 PAHO and the US health department had not commented publicly when the reports came out. Experts say two doses of the measles vaccine give about 97% protection.\n\n💬 Do you think more people should get vaccinated against measles? 👇\n\nSources: Reuters, CNN, Al Jazeera\n\n#GlobalEye #Measles #PublicHealth #USA #Vaccines #WorldNews",
+    "photo_needed": "A measles vaccine vial and syringe (MMR vaccine), or a doctor/nurse giving a vaccine shot to a child's arm (face not needed). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html",
+      "https://www.staradvertiser.com/2026/11/13/breaking-news/u-s-loses-measles-free-status-as-disease-continues-to-spread/",
+      "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
+      "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported",
+      "https://www.washingtonpost.com/health/2026/11/13/us-reports-least-10-measles-deaths-2026/"
+    ],
+    "email_thread_id": "1a1d87a6824a09e8",
+    "status": "expired",
+    "expired_at": "2026-11-14 19:12 PKT"
   }
 ]
