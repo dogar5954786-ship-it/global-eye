@@ -350,5 +350,24 @@
     "status": "sent_to_facebook_via_zapier",
     "image": "posts/2026-11-15-starship-caught-after-orbit.jpg",
     "rendered": "2026-11-15 07:44 PKT"
+  },
+  {
+    "slug": "2026-11-15-denmark-thrash-portugal",
+    "created": "2026-11-15 14:12 PKT",
+    "headline": "[Heaviest Home Loss!] Portugal Crushed [4-1] by Denmark in First Game Without Ronaldo",
+    "sub": "Hojlund scores twice in Nations League rout",
+    "category": "sports",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚽ Heaviest Home Loss! Portugal Crushed 4-1 by Denmark in First Game Without Ronaldo\n\nDenmark beat Portugal 4-1 in Braga on Saturday in the UEFA Nations League. It was Portugal's first match since Cristiano Ronaldo announced his international retirement last week.\n\n🔹 Pierre-Emile Hojbjerg scored a penalty before half-time, Rasmus Hojlund scored twice early in the second half, and Joachim Andersen added a header. Bernardo Silva scored late for Portugal.\n🔹 ESPN says it is Portugal's heaviest home defeat in a competitive match.\n🔹 Portugal are already in the quarter-finals but must avoid defeat against Wales on Tuesday to win the group.\n\n💬 Can Portugal bounce back without Ronaldo? 👇\n\nSources: ESPN, BBC Sport\n\n#GlobalEye #Football #NationsLeague #Portugal #Denmark #Ronaldo #Hojlund",
+    "photo_needed": "Denmark players celebrating a goal against Portugal in Braga (Rasmus Hojlund if possible), or the match scene. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+      "https://sports.yahoo.com/articles/portugal-humbled-first-game-since-220543680.html"
+    ],
+    "email_thread_id": "1a1de7b04bdbba8d",
+    "status": "sent_to_facebook_via_zapier",
+    "image": "posts/2026-11-15-denmark-thrash-portugal.jpg",
+    "rendered": "2026-11-15 14:57 PKT"
   }
 ]
