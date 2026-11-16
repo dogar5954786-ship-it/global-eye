@@ -1,391 +1,410 @@
 [
-  {
-    "date": "2026-11-13 03:30 PKT",
-    "headline": "Nvidia CEO Jensen Huang resigns after 33 years",
-    "category": "tech",
-    "image": "posts/2026-11-13-nvidia-huang-resigns.jpg",
-    "fb_post_id": "1401152919753922_122103898299543069",
-    "sources": [
-      "https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256",
-      "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
-      "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
-    ]
-  },
-  {
-    "slug": "2026-11-13-russia-ukraine-prisoner-swap",
-    "created": "2026-11-13 04:10 PKT",
-    "headline": "[Big Step!] Russia and Ukraine Agree to a [Large Prisoner Swap] After Abu Dhabi Talks",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "🕊️ Russia and Ukraine agree to a large prisoner swap\n\nRussia and Ukraine have agreed to a large exchange of prisoners of war after two days of US-mediated talks in Abu Dhabi, both sides said on Wednesday. These were the first direct talks between the two countries in nine months.\n\n🔹 The swap was confirmed by Russia's chief negotiator Vladimir Medinsky and Ukraine's Rustem Umerov. The exact numbers are still being finalised.\n🔹 US envoy Jared Kushner called it the \"biggest humanitarian release of prisoners\" of the war.\n🔹 No deal was reached on a ceasefire, territory or security guarantees. US envoys Kushner and Steve Witkoff then met President Putin in Moscow and President Zelensky in Ireland, and say a new round of talks is planned.\n\n💬 Do you think these talks can bring the war closer to an end? 👇\n\nSources: AP, Reuters, ABC News\n\n#GlobalEye #Russia #Ukraine #PrisonerSwap #AbuDhabi #WorldNews",
-    "photo_needed": "A photo from the US-mediated Russia-Ukraine talks in Abu Dhabi (delegations at the table), or the Russian and Ukrainian negotiators.",
-    "sources": [
-      "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
-      "https://www.japantimes.co.jp/news/2026/11/12/world/politics/russia-ukraine-prisoner-swap-us-talks/",
-      "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
-      "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
-    ],
-    "email_thread_id": "1a1d2037cebd1d48",
-    "status": "expired",
-    "expired_at": "2026-11-13 12:13 PKT"
-  },
-  {
-    "slug": "2026-11-13-microsoft-365-outage",
-    "created": "2026-11-13 10:15 PKT",
-    "headline": "[Global Outage!] Microsoft Outlook and Teams Go Down for [5+ Hours]",
-    "sub": "Over 138,000 problem reports at peak",
-    "category": "tech",
-    "breaking": false,
-    "focus": 0.4,
-    "caption": "💻 Microsoft Outlook and Teams down for hours\n\nA major Microsoft 365 outage disrupted Outlook email, Teams and other Microsoft services for more than five hours on Thursday, Reuters reported. Problems began around 12:30 p.m. US Eastern time, and Microsoft said users in any region could be affected.\n\n🔹 Problem reports for Outlook on Downdetector peaked at more than 138,000, according to Reuters.\n🔹 Microsoft said a number of servers became unexpectedly unavailable because of elevated load, mainly hitting Exchange Online email.\n🔹 Microsoft said it was returning servers to service and moving traffic, and warned that recovery would be gradual as users reconnect.\n\n💬 Were you affected by the Microsoft outage? 👇\n\nSources: Reuters, ABC News\n\n#GlobalEye #Microsoft #Outlook #Teams #Outage #Tech",
-    "photo_needed": "Microsoft logo sign or Microsoft office building (no people needed). A clear photo of the Outlook or Teams logo on a screen also works.",
-    "sources": [
-      "https://ca.finance.yahoo.com/news/microsoft-outage-drags-hours-disrupting-233132055.html",
-      "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
-      "https://www.techradar.com/news/live/outlook-outage-nov-2026"
-    ],
-    "email_thread_id": "1a1d353262efca3e",
-    "status": "not_posted_zap_error",
-    "image": "posts/2026-11-13-microsoft-365-outage.jpg",
-    "rendered": "2026-11-13 12:58 PKT"
-  },
-  {
-    "slug": "2026-11-13-iran-bahrain-us-radar",
-    "created": "2026-11-13 14:15 PKT",
-    "headline": "[Tensions Rise!] Iran Says It Hit a [US Radar] in Bahrain",
-    "sub": "The claim has not been independently verified",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "⚠️ Iran Says It Hit a US Radar in Bahrain\n\nIran's Revolutionary Guards (IRGC) said on Friday that they targeted and destroyed a US early-warning radar in Bahrain. Iran's state news agency IRNA reported the statement. AP and Al Jazeera said the claim could not be independently verified, and the US and Bahrain did not comment straight away.\n\n🔹 The IRGC said it was a reply to an attack on a telecom tower in Sirik, a port city in southern Iran, on Thursday.\n🔹 According to Reuters, it is Iran's first claimed attack on US military assets in a Gulf country since early September.\n🔹 Bahrain hosts the headquarters of the US Navy's Fifth Fleet. The IRGC warned it is ready to act again.\n\n💬 Do you think talks can stop the tension from growing? 👇\n\nSources: AP, Al Jazeera, Reuters\n\n#GlobalEye #Iran #Bahrain #USA #MiddleEast #WorldNews",
-    "photo_needed": "A US military radar or US Navy base in Bahrain, or an IRGC missile launch photo. A map-style image of Bahrain and Iran also works (no people needed).",
-    "sources": [
-      "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
-      "https://www.wsbtv.com/news/world/irans-revolutionary/6KKK7NY5UI7H5CVI3CPFD67WH4/",
-      "https://www.arabnews.com/middle-east/irans-guards-say-they-targeted-us-radar-system-in-bahrain-3011593"
-    ],
-    "email_thread_id": "1a1d42e10cf4c633",
-    "status": "not_posted_zap_error",
-    "image": "posts/2026-11-13-iran-bahrain-us-radar.jpg",
-    "rendered": "2026-11-13 14:47 PKT"
-  },
-  {
-    "slug": "2026-11-13-trump-tim-cook-nvidia",
-    "created": "2026-11-13 07:15 PKT",
-    "headline": "[New Twist!] Trump Says [Tim Cook] Should Replace Jensen Huang as Nvidia CEO",
-    "sub": "Huang agrees to testify before Congress",
-    "category": "tech",
-    "breaking": false,
-    "focus": 0.2,
-    "caption": "💻 Trump says Tim Cook should lead Nvidia\n\nUS President Donald Trump said on Thursday that Apple's Tim Cook should become the new CEO of Nvidia, after Jensen Huang stepped down. In a post on Truth Social, Trump wrote that there is \"only one man\" to take Huang's place and called it \"A Legend replaces a Legend!\"\n\n🔹 Nvidia has named its finance chief, Colette Kress, as interim CEO while its board looks for a permanent leader.\n🔹 Tim Cook stepped down as Apple CEO in September and is now executive chairman of Apple's board.\n🔹 Huang has agreed to testify before US lawmakers in a closed-door session by Thanksgiving, House Foreign Affairs Committee chairman Brian Mast said.\n\n💬 Who do you think should lead Nvidia next? 👇\n\nSources: NBC News, Fox Business, TechCrunch\n\n#GlobalEye #Nvidia #TimCook #JensenHuang #Trump #Tech",
-    "photo_needed": "Tim Cook, face clearly visible (e.g. at an Apple event). A photo of Tim Cook with Trump also works.",
-    "sources": [
-      "https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767",
-      "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
-      "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
-    ],
-    "email_thread_id": "1a1d2a8fdcb0e81e",
-    "status": "expired"
-  },
-  {
-    "slug": "2026-11-13-trump-cuba-before-leaving",
-    "created": "2026-11-13 16:25 PKT",
-    "headline": "[Cuba Warning!] Trump Says He Wants to [Get Cuba Done] Before Leaving Office",
-    "sub": "He says he would consider military force",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.2,
-    "caption": "🌎 Trump Says He Wants to \"Get Cuba Done\" Before Leaving Office\n\nUS President Donald Trump said on Thursday that he wants to \"get Cuba done\" before he leaves office in 2029. Speaking in a radio interview with host Hugh Hewitt, he said he would consider using military force against Cuba and that his team is \"watching it very closely.\"\n\n🔹 Politico reported this is the first time Trump has given a timeline for possible action on Cuba.\n🔹 Trump said Secretary of State Marco Rubio, whose parents are from Cuba, \"would love to do it.\"\n🔹 Since January, the US has blocked most oil shipments to Cuba, which has led to blackouts and food and fuel shortages. Cuban officials have said the island is ready for any attack.\n\n💬 What do you think will happen next between the US and Cuba? 👇\n\nSources: Al Jazeera, Politico, The Hill\n\n#GlobalEye #Cuba #USA #Trump #WorldNews #Politics",
-    "photo_needed": "Donald Trump, face clearly visible (a recent photo). A photo of Havana, Cuba with the Cuban flag also works.",
-    "sources": [
-      "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office",
-      "https://www.yahoo.com/news/politics/articles/trump-want-cuba-done-leaving-231522117.html",
-      "https://thehill.com/homenews/administration/6217391-trump-wants-cuba-change/"
-    ],
-    "email_thread_id": "1a1d49e63e0faa50",
-    "status": "posted_manually_by_claude",
-    "image": "posts/2026-11-13-trump-cuba-before-leaving.jpg",
-    "rendered": "2026-11-13 17:26 PKT",
-    "fb_post_id": "1401152919753922_122104569573543069"
-  },
-  {
-    "slug": "2026-11-13-nz-crush-india-89",
-    "created": "2026-11-13 16:25 PKT",
-    "headline": "[Shock Collapse!] India All Out for [89] as New Zealand Win by 244 Runs",
-    "sub": "Matt Henry takes 6 wickets, Will Young hits 125",
-    "category": "sports",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "🏏 India All Out for 89 as New Zealand Win by 244 Runs\n\nNew Zealand beat India by 244 runs in the fourth ODI at Bay Oval, Mount Maunganui, on Friday. New Zealand made 333, and India were bowled out for just 89 in reply.\n\n🔹 Fast bowler Matt Henry took 6 wickets for 27 runs. Reuters reported he took three wickets in his first over, including Rohit Sharma and Virat Kohli.\n🔹 Will Young scored 125 from 108 balls, his fifth ODI hundred.\n🔹 India still lead the five-match series 2-1 (the third match was washed out by rain). The last match is on Sunday at the same ground.\n\n💬 What went wrong for India today? 👇\n\nSources: Al Jazeera, Reuters, ESPNcricinfo\n\n#GlobalEye #INDvNZ #Cricket #MattHenry #WillYoung #TeamIndia",
-    "photo_needed": "Matt Henry (New Zealand bowler) celebrating a wicket, face clearly visible. A New Zealand team celebration photo also works.",
-    "sources": [
-      "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi",
-      "https://www.easterneye.biz/india-vs-new-zealand-4th-odi-will-young-matt-henry/",
-      "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
-    ],
-    "email_thread_id": "1a1d49e505943617",
-    "image": "posts/2026-11-13-nz-crush-india-89.jpg",
-    "rendered": "2026-11-13 19:37 PKT",
-    "status": "sent_to_facebook_via_zapier"
-  },
-  {
-    "slug": "2026-11-13-pope-leo-chiclayo",
-    "created": "2026-11-13 20:40 PKT",
-    "headline": "[Big Homecoming!] Pope Leo Returns to the Peru City He Led as [Bishop]",
-    "sub": "Up to 1 million expected at his Mass",
-    "category": "world",
-    "breaking": false,
-    "focus": 0.2,
-    "caption": "🙏 Pope Leo Returns to the Peru City He Led as Bishop\n\nPope Leo XIV arrived in Chiclayo, Peru, on Friday for an outdoor Mass in the city where he served as bishop for eight years. Local officials said up to 1 million people could attend.\n\n🔹 Before becoming pope, Leo (born Robert Prevost in Chicago) worked in Peru for about 20 years as a missionary priest and bishop.\n🔹 In Lima on Wednesday, about 3 million people came out to see him, the biggest crowd of his papacy so far, Reuters reported.\n🔹 Peru is the last stop of his 12-day South America trip, after Argentina and Uruguay. He stays in the Chiclayo area until Sunday.\n\n💬 Have you ever seen the Pope in person? 👇\n\nSources: Reuters, AP\n\n#GlobalEye #PopeLeo #PopeLeoXIV #Peru #Chiclayo #Vatican",
-    "photo_needed": "Pope Leo XIV, face clearly visible (best: greeting the crowds in Peru, waving from the popemobile).",
-    "sources": [
-      "https://www.yahoo.com/news/articles/peruvians-flock-see-pope-leo-100248819.html",
-      "https://www.clickondetroit.com/news/world/2026/11/13/perus-chiclayo-welcomes-its-former-shepherd-home-and-revels-in-popes-love/"
-    ],
-    "email_thread_id": "1a1d58a847a38b7d",
-    "status": "sent_to_facebook_via_zapier",
-    "image": "posts/2026-11-13-pope-leo-chiclayo.jpg",
-    "rendered": "2026-11-13 20:44 PKT"
-  },
-  {
-    "slug": "2026-11-13-ukraine-1200-drones-russia",
-    "created": "2026-11-13 20:40 PKT",
-    "headline": "[Massive Attack!] Ukraine Fires Nearly [1,200 Drones] at Russia Overnight",
-    "sub": "Russia says it shot down 1,198 drones",
-    "category": "world",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "⚠️ Ukraine Fires Nearly 1,200 Drones at Russia Overnight\n\nUkraine launched almost 1,200 drones at Russia overnight from Thursday to Friday, one of its biggest air attacks since the full-scale war began nearly five years ago. Russia's Defence Ministry said its air defences shot down 1,198 drones over more than 15 regions.\n\n🔹 Russian officials reported deaths. At least four workers were killed in an industrial area in the Volgograd region, the regional governor said.\n🔹 Moscow's mayor said 467 drones were heading for the capital. Russia also attacked Ukraine overnight; Ukrainian officials said at least two people were killed in Odesa.\n🔹 The attack came after two days of US-led talks in Abu Dhabi. US envoys say Europe will join the next round of peace talks.\n\n💬 Do you think the peace talks can stop the war? 👇\n\nSources: AP, Al Jazeera, AFP\n\n#GlobalEye #Ukraine #Russia #Drones #UkraineWar #WorldNews",
-    "photo_needed": "A Ukrainian long-range drone, or Russian air defence firing at night, or drone wreckage in Russia. A big landscape photo works best (no people needed).",
-    "sources": [
-      "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/",
-      "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push",
-      "https://www.brecorder.com/news/40448746/russia-says-four-killed-in-major-ukraine-drone-barrage"
-    ],
-    "email_thread_id": "1a1d58a7356532b2",
-    "status": "sent_to_facebook_via_zapier",
-    "image": "posts/2026-11-13-ukraine-1200-drones-russia.jpg",
-    "rendered": "2026-11-13 20:45 PKT"
-  },
-  {
-    "slug": "2026-11-14-lutnick-agrees-to-testify",
-    "created": "2026-11-14 07:20 PKT",
-    "headline": "[Nvidia Scandal Grows!] US Commerce Chief [Lutnick] Agrees to Testify Before Senate",
-    "sub": "Senate probe into AI chips reaching China",
-    "category": "tech",
-    "breaking": false,
-    "focus": 0.2,
-    "caption": "💻 Nvidia Scandal Grows: US Commerce Chief Lutnick Agrees to Testify Before Senate\n\nUS Commerce Secretary Howard Lutnick has agreed to appear before the Senate Banking Committee, CNN and CBS News reported on Friday. The committee is looking at how advanced Nvidia AI chips may have reached China, and why the US did not act sooner.\n\n🔹 Committee chairman Senator Tim Scott asked Lutnick to testify on December 10. A source said the details are still being worked out.\n🔹 The probe centres on Megaspeed, a Singapore-based Nvidia customer that US officials suspect of helping Chinese firms get around chip export limits. China rejects the spying claims linked to the case.\n🔹 Lawmakers have also asked former Nvidia CEO Jensen Huang, who resigned this week, to testify in early December, and warned they could use subpoenas.\n\n💬 Should the US be stricter about selling AI chips to China? 👇\n\nSources: CNN, CBS News, CNBC\n\n#GlobalEye #Nvidia #Lutnick #AIChips #China #TechNews",
-    "photo_needed": "Howard Lutnick (US Commerce Secretary), face clearly visible. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
-      "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
-      "https://www.tribuneindia.com/news/commerce-secretary/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-export-controls-controversy",
-      "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china"
-    ],
-    "email_thread_id": "1a1d7d3de93c2721",
-    "status": "sent_to_facebook_via_zapier",
-    "image": "posts/2026-11-14-lutnick-agrees-to-testify.jpg",
-    "rendered": "2026-11-14 07:22 PKT"
-  },
-  {
-    "slug": "2026-11-14-us-flights-grounded",
-    "created": "2026-11-14 08:15 PKT",
-    "headline": "[Rare Shutdown!] US Grounds Flights Nationwide for [4+ Hours]",
-    "sub": "Air traffic communication failure halts departures",
-    "category": "world",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "✈️ Rare Shutdown: US Grounds Flights Nationwide for 4+ Hours\n\nThe US Federal Aviation Administration (FAA) stopped flights from taking off at all US airports on Friday afternoon, after a communication problem hit air traffic control centres across the country. Departures were halted for more than four hours before the FAA lifted the order late Friday.\n\n🔹 The FAA said the ground stop was ordered \"for reasons of safety\" after \"communication issues\" at multiple Air Route Traffic Control Centers. Technicians are still looking into the cause.\n🔹 By Friday evening, FlightAware showed more than 1,900 flights cancelled and over 10,000 delayed in the US. Delays are expected to continue.\n🔹 Officials said there was no sign of a \"nefarious\" act. It was the first nationwide ground stop since January 2023.\n\n💬 Have you ever been stuck at an airport because of a big delay? 👇\n\nSources: CBS News, ABC News, Al Jazeera, FAA\n\n#GlobalEye #FAA #Flights #USA #AirTravel #WorldNews",
-    "photo_needed": "A busy US airport departures board showing many delayed/cancelled flights, or planes parked at a US airport gate (no person needed). A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
-      "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
-      "https://abc7news.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/entry/20039063/",
-      "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
-      "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop",
-      "https://www.ms.now/news/faa-ground-stop-all-flights-nationwide"
-    ],
-    "email_thread_id": "1a1d80b5b43215ce",
-    "status": "expired",
-    "expired_at": "2026-11-14 17:11 PKT"
-  },
-  {
-    "slug": "2026-11-14-us-measles-status",
-    "created": "2026-11-14 10:20 PKT",
-    "headline": "[Health Setback!] US Reportedly Loses Measles-Free Status After [26 Years]",
-    "sub": "Measles kept spreading for over a year",
-    "category": "world",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "🦠 Health Setback: US Reportedly Loses Measles-Free Status After 26 Years\n\nThe United States has lost its \"measles eliminated\" status, which it held since 2000, according to reports by Reuters and CNN on Friday. Reuters, citing the Wall Street Journal, said the Pan American Health Organization (PAHO) took the step because measles kept spreading in the US for more than a year.\n\n🔹 The CDC had counted 5,182 confirmed measles cases in 2026 as of Thursday, from 45 states, New York City and Washington, D.C. That is more than double the 2,289 cases in all of 2025.\n🔹 State health officials have reported at least 10 measles-related deaths in the US this year, after two more were reported in Pennsylvania and Wisconsin.\n🔹 PAHO and the US health department had not commented publicly when the reports came out. Experts say two doses of the measles vaccine give about 97% protection.\n\n💬 Do you think more people should get vaccinated against measles? 👇\n\nSources: Reuters, CNN, Al Jazeera\n\n#GlobalEye #Measles #PublicHealth #USA #Vaccines #WorldNews",
-    "photo_needed": "A measles vaccine vial and syringe (MMR vaccine), or a doctor/nurse giving a vaccine shot to a child's arm (face not needed). A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html",
-      "https://www.staradvertiser.com/2026/11/13/breaking-news/u-s-loses-measles-free-status-as-disease-continues-to-spread/",
-      "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
-      "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported",
-      "https://www.washingtonpost.com/health/2026/11/13/us-reports-least-10-measles-deaths-2026/"
-    ],
-    "email_thread_id": "1a1d87a6824a09e8",
-    "status": "expired",
-    "expired_at": "2026-11-14 19:12 PKT"
-  },
-  {
-    "slug": "2026-11-14-uruguay-beat-argentina-post-messi",
-    "created": "2026-11-14 12:15 PKT",
-    "headline": "[Post-Messi Era Begins!] Uruguay Beat Argentina [2-1] at La Bombonera",
-    "sub": "First Argentina match since Messi retired",
-    "category": "sports",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "⚽ Post-Messi Era Begins: Uruguay Beat Argentina 2-1 at La Bombonera\n\nUruguay beat Argentina 2-1 in a friendly at La Bombonera in Buenos Aires on Friday night. It was Argentina's first match since Lionel Messi retired from international football in early October.\n\n🔹 Uruguay scored twice early in the second half: a Leonardo Balerdi own goal (48') and a goal by Maxi Araújo (53'). Julián Álvarez pulled one back for Argentina in the 73rd minute.\n🔹 Argentina left the No. 10 shirt unassigned. Coach Lionel Scaloni said: \"We have to rebuild without Leo Messi, and we have the talent to bounce back from this loss.\"\n🔹 Messi ended his Argentina career with 125 goals in 207 games. Argentina play Costa Rica in Córdoba on Tuesday.\n\n💬 Who should wear Argentina's No. 10 shirt next? 👇\n\nSources: ESPN, AP\n\n#GlobalEye #Argentina #Uruguay #Messi #Football #Scaloni",
-    "photo_needed": "Argentina vs Uruguay match at La Bombonera (players in action, landscape), or Uruguay players celebrating. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.espn.com/soccer/story/_/id/50476278/scaloni-calls-rebuild-argentina-fall-first-messi",
-      "https://www.chronicleonline.com/news/world/uruguay-beats-argentina-2-1-in-the-first-match-since-lionel-messi-s-retirement/article_01ce7b22-508a-54bb-b822-4452aeca4b54.html",
-      "https://gulfnews.com/sport/football/uruguay-beats-argentina-in-first-game-since-messi-retirement-1.500746908"
-    ],
-    "email_thread_id": "1a1d8e7614e0e7bd",
-    "status": "expired",
-    "expired_at": "2026-11-14 21:10 PKT"
-  },
-  {
-    "slug": "2026-11-14-hormuz-tankers-hit-mines",
-    "created": "2026-11-14 14:20 PKT",
-    "headline": "[Hormuz Blasts!] Iran Says [3 Oil Tankers] Hit Mines and Caught Fire",
-    "sub": "Iran says ships used banned routes",
-    "category": "world",
-    "breaking": true,
-    "focus": 0.4,
-    "caption": "🚨 BREAKING: Iran Says 3 Oil Tankers Hit Mines and Caught Fire in Hormuz\n\nIran's navy and Revolutionary Guards said on Saturday that three oil tankers hit naval mines in the Strait of Hormuz and caught fire. Iran says the ships had switched off their tracking systems and were using routes it does not allow.\n\n🔹 Iran said two of the tankers were hit in the south of the strait, one of them a supertanker. A third was hit east of the strait. The ships' names and any casualties were not given, and there is no independent confirmation yet.\n🔹 The UN told the Security Council on Friday that at least 25 seafarers have been killed in and around Hormuz since the war began in February.\n🔹 Shipping through Hormuz is about 65% below pre-war levels, the UK's maritime agency (UKMTO) says. The US military says it has cleared the main routes of mines.\n\n💬 How do you think this will affect oil prices? 👇\n\nSources: AFP, Al Jazeera, Middle East Eye\n\n#GlobalEye #Hormuz #Iran #OilTankers #Shipping #WorldNews",
-    "photo_needed": "Oil tanker in the Strait of Hormuz (ideally a tanker on fire or with smoke), or a wide shot of tankers in the strait. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.brecorder.com/news/40448900/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz",
-      "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire",
-      "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
-    ],
-    "email_thread_id": "1a1d954ddf849ab2",
-    "status": "expired",
-    "expired_at": "2026-11-14 23:10 PKT"
-  },
-  {
-    "slug": "2026-11-14-trump-xi-putin-summit",
-    "created": "2026-11-14 16:25 PKT",
-    "headline": "[Historic First!] Trump, Xi and Putin to Hold [Three-Way Summit] in China",
-    "sub": "Nuclear arms and Iran war on the agenda",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.2,
-    "caption": "🌍 Historic First: Trump, Xi and Putin to Hold Three-Way Summit in China\n\nThe White House said on Friday that US President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, next week. It will be the first three-way meeting of the three leaders, held on the sidelines of the APEC summit.\n\n🔹 White House spokesperson Olivia Wales said Trump will discuss \"the reduction of nuclear weapons in the world\". The New START nuclear treaty between the US and Russia expired in February.\n🔹 US officials said the Iran war will also be discussed, but Ukraine will not. A senior US official told Reuters: \"We do not expect to get to any kind of agreement.\"\n🔹 The APEC leaders' meeting runs on 18-19 November. Moscow and Beijing had not commented when the plan was announced.\n\n💬 Do you think this meeting can lead to a nuclear deal? 👇\n\nSources: Al Jazeera, Euronews, AFP\n\n#GlobalEye #Trump #XiJinping #Putin #APEC #NuclearWeapons #WorldNews",
-    "photo_needed": "Donald Trump, Xi Jinping and Vladimir Putin - a side-by-side photo or collage of the three leaders, faces clearly visible. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
-      "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
-      "https://www.theweek.in/news/world/2026/11/14/trump-xi-putin-trilateral-meeting-apec.html",
-      "https://www.al-monitor.com/originals/2026/11/trump-hold-summit-xi-putin-shenzhen-thursday-ny-post-reports"
-    ],
-    "email_thread_id": "1a1d9c26c9907995",
-    "status": "expired",
-    "expired": "2026-11-15 07:10 PKT"
-  },
-  {
-    "slug": "2026-11-14-icc-ends-us-troops-afghan-probe",
-    "created": "2026-11-14 20:15 PKT",
-    "headline": "[Big Ruling!] ICC Stops Probe Into Alleged Crimes by [US Troops] in Afghanistan",
-    "sub": "Court will now focus on the Taliban",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.4,
-    "caption": "⚖️ Big Ruling: ICC Stops Probe Into Alleged Crimes by US Troops in Afghanistan\n\nJudges at the International Criminal Court (ICC) in The Hague have ordered the prosecutor to stop investigating alleged crimes by American troops in Afghanistan. The ruling was issued on Thursday and made public on Friday.\n\n🔹 The court's Afghanistan inquiry will now focus only on alleged crimes by the Taliban since 2021. A separate probe into the ISIS group in Khorasan (ISKP) was also closed.\n🔹 The judges cited \"significant limitations to the Prosecution's ability to conduct its investigations and secure evidence.\" The US troops part of the probe had been inactive since 2021.\n🔹 The prosecutor's office says it has already appealed. Arrest warrants for four Taliban leaders remain in force. The US is not an ICC member and has put sanctions on court staff.\n\n💬 Should international courts be able to investigate any country's soldiers? 👇\n\nSources: Reuters, AP, Al Jazeera\n\n#GlobalEye #ICC #Afghanistan #Taliban #USA #WorldNews",
-    "photo_needed": "International Criminal Court (ICC) building in The Hague, with the ICC sign/logo clearly visible. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
-      "https://www.newarab.com/news/icc-stops-probe-alleged-crimes-us-troops-afghanistan",
-      "https://www.pakistantoday.com.pk/2026/11/14/icc-judges-halt-afghanistan-war-crimes-inquiry-involving-us-troops"
-    ],
-    "email_thread_id": "1a1da9e69080b047",
-    "status": "expired",
-    "expired": "2026-11-15 07:10 PKT"
-  },
-  {
-    "slug": "2026-11-14-india-beat-pak-u19-asia-cup-final",
-    "created": "2026-11-14 22:15 PKT",
-    "headline": "[Last-Ball Thriller!] India Beat Pakistan to Win [U-19 Asia Cup] Final",
-    "sub": "India chase 338 with one wicket left",
-    "category": "sports",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "🏏 Last-Ball Thriller: India Beat Pakistan to Win U-19 Asia Cup Final\n\nIndia beat Pakistan by one wicket in the Under-19 Asia Cup final in Muscat, Oman, on Saturday. India needed three runs off the very last ball, and Mohit Ulva hit a four to win the match.\n\n🔹 Pakistan won the toss and made 337 for 9. Usman Khan scored 107, Abdul Qadir 80 and captain Farhan Yousaf 63. India's Kavya Patel took 4 wickets for 68 runs.\n🔹 India chased 338 and finished on 339 for 9 in 50 overs. Mohit Ulva was not out on 49 off just 26 balls.\n🔹 It is India's ninth U-19 Asia Cup title. Pakistan were the defending champions.\n\n💬 Who was your star of this final? 👇\n\nSources: ESPNcricinfo, The Week, Outlook India\n\n#GlobalEye #U19AsiaCup #INDvPAK #Cricket #Pakistan #India",
-    "photo_needed": "India Under-19 team celebrating with the U-19 Asia Cup trophy (or the India vs Pakistan U-19 final in Muscat), faces clearly visible. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/india-under-19s-vs-pakistan-under-19s-final-1558444/match-report",
-      "https://www.theweek.in/news/sports/2026/11/14/india-wins-u19-asia-cup-2026-pakistan.html",
-      "https://outlookindia.com/sports/cricket/who-is-mohit-ulva-the-miracle-boy-who-smashed-last-ball-four-to-steer-india-to-u19-asia-cup-title-vs-pakistan",
-      "https://www.crictracker.com/cricket-news/india-pull-off-stunning-338-run-chase-to-defeat-pakistan-in-u19-asia-cup-final-7032/"
-    ],
-    "email_thread_id": "1a1db0c84056243d",
-    "status": "expired",
-    "expired": "2026-11-15 07:10 PKT"
-  },
-  {
-    "slug": "2026-11-15-starship-caught-after-orbit",
-    "created": "2026-11-15 07:15 PKT",
-    "headline": "[History Made!] SpaceX Catches Starship With Tower Arms After [14 Orbits]",
-    "sub": "First catch of a Starship back from space",
-    "category": "tech",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "🚀 History Made: SpaceX Catches Starship With Tower Arms After 14 Orbits\n\nSpaceX caught its Starship spacecraft with the giant arms of its launch tower at Starbase, Texas, on Saturday. It is the first time a Starship has been caught after returning from space. The ship landed about 22 hours after it took off on Friday.\n\n🔹 On its 15th test flight, Starship circled Earth 14 times at about 265 km (165 miles) up and released 26 Starlink satellites.\n🔹 The Super Heavy booster did not come back as planned. Its engines stopped too early and it was destroyed over the Gulf of Mexico. SpaceX is investigating.\n🔹 Catching rockets is key to reusing them. NASA plans to use Starship as a Moon lander. NASA chief Jared Isaacman said: \"It was almost magic.\"\n\n💬 Would you like to travel to space one day? 👇\n\nSources: AP, CNN, CNBC\n\n#GlobalEye #SpaceX #Starship #ElonMusk #Space #NASA",
-    "photo_needed": "SpaceX Starship spacecraft held by the launch tower arms (\"Mechazilla\") at Starbase, Texas - or a Starship launch photo. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.ntd.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first_1185371.html",
-      "https://cbs12.com/news/nation-world/spacex-catches-starship-after-orbit-in-historic-first-as-booster-explodes-over-gulf",
-      "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-      "https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch"
-    ],
-    "email_thread_id": "1a1dcfb3ca299b82",
-    "status": "sent_to_facebook_via_zapier",
-    "image": "posts/2026-11-15-starship-caught-after-orbit.jpg",
-    "rendered": "2026-11-15 07:44 PKT"
-  },
-  {
-    "slug": "2026-11-15-denmark-thrash-portugal",
-    "created": "2026-11-15 14:12 PKT",
-    "headline": "[Heaviest Home Loss!] Portugal Crushed [4-1] by Denmark in First Game Without Ronaldo",
-    "sub": "Hojlund scores twice in Nations League rout",
-    "category": "sports",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "⚽ Heaviest Home Loss! Portugal Crushed 4-1 by Denmark in First Game Without Ronaldo\n\nDenmark beat Portugal 4-1 in Braga on Saturday in the UEFA Nations League. It was Portugal's first match since Cristiano Ronaldo announced his international retirement last week.\n\n🔹 Pierre-Emile Hojbjerg scored a penalty before half-time, Rasmus Hojlund scored twice early in the second half, and Joachim Andersen added a header. Bernardo Silva scored late for Portugal.\n🔹 ESPN says it is Portugal's heaviest home defeat in a competitive match.\n🔹 Portugal are already in the quarter-finals but must avoid defeat against Wales on Tuesday to win the group.\n\n💬 Can Portugal bounce back without Ronaldo? 👇\n\nSources: ESPN, BBC Sport\n\n#GlobalEye #Football #NationsLeague #Portugal #Denmark #Ronaldo #Hojlund",
-    "photo_needed": "Denmark players celebrating a goal against Portugal in Braga (Rasmus Hojlund if possible), or the match scene. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
-      "https://sports.yahoo.com/articles/portugal-humbled-first-game-since-220543680.html"
-    ],
-    "email_thread_id": "1a1de7b04bdbba8d",
-    "status": "sent_to_facebook_via_zapier",
-    "image": "posts/2026-11-15-denmark-thrash-portugal.jpg",
-    "rendered": "2026-11-15 14:57 PKT"
-  },
-  {
-    "slug": "2026-11-15-hamas-rafah-chief-killed",
-    "created": "2026-11-15 10:15 PKT",
-    "headline": "[Gaza Strike] Israel Kills Hamas Rafah Brigade Chief [Samir Abu Younis]",
-    "sub": "Hamas confirms death; strike hit Khan Younis",
-    "category": "politics",
-    "breaking": false,
-    "focus": 0.3,
-    "caption": "📍 Gaza Strike Israel Kills Hamas Rafah Brigade Chief Samir Abu Younis\n\nIsrael's military says it carried out a strike on Saturday that targeted a senior commander of Hamas's armed wing in Khan Younis, southern Gaza. Hamas confirmed that Samir Abu Younis, the commander of its Rafah brigade, was killed. Medics said the strike hit the Mawasi area and wounded others.\n\n🔹 Abu Younis, 53, had been a member of Hamas's armed wing, the Al-Qassam Brigades, since 1991, Reuters reported.\n🔹 Gaza health authorities say at least 1,600 Palestinians have been killed since the October 2025 ceasefire began. Five Israeli soldiers have died in the same period.\n🔹 The ceasefire stopped major fighting, but strikes have continued and Hamas has not disarmed.\n\n💬 What do you think is next for the Gaza ceasefire? 👇\n\nSources: Reuters, Al Jazeera\n\n#GlobalEye #Gaza #Hamas #Israel #KhanYounis #MiddleEast",
-    "photo_needed": "Khan Younis / al-Mawasi area of southern Gaza (tents, street or smoke after the strike - no graphic images), or an official photo of Samir Abu Younis if one exists. A big, clear, landscape photo works best.",
-    "sources": [
-      "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955",
-      "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
-    ],
-    "email_thread_id": "1a1dd9f2ee68aa0d",
-    "status": "expired",
-    "expired_at": "2026-11-15 20:10 PKT"
-  }
+ {
+  "date": "2026-11-13 03:30 PKT",
+  "headline": "Nvidia CEO Jensen Huang resigns after 33 years",
+  "category": "tech",
+  "image": "posts/2026-11-13-nvidia-huang-resigns.jpg",
+  "fb_post_id": "1401152919753922_122103898299543069",
+  "sources": [
+   "https://abcnews.com/Business/nvidia-ceo-jensen-huang-resigns-amid-alleged-affair/story?id=138076256",
+   "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+   "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
+  ]
+ },
+ {
+  "slug": "2026-11-13-russia-ukraine-prisoner-swap",
+  "created": "2026-11-13 04:10 PKT",
+  "headline": "[Big Step!] Russia and Ukraine Agree to a [Large Prisoner Swap] After Abu Dhabi Talks",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🕊️ Russia and Ukraine agree to a large prisoner swap\n\nRussia and Ukraine have agreed to a large exchange of prisoners of war after two days of US-mediated talks in Abu Dhabi, both sides said on Wednesday. These were the first direct talks between the two countries in nine months.\n\n🔹 The swap was confirmed by Russia's chief negotiator Vladimir Medinsky and Ukraine's Rustem Umerov. The exact numbers are still being finalised.\n🔹 US envoy Jared Kushner called it the \"biggest humanitarian release of prisoners\" of the war.\n🔹 No deal was reached on a ceasefire, territory or security guarantees. US envoys Kushner and Steve Witkoff then met President Putin in Moscow and President Zelensky in Ireland, and say a new round of talks is planned.\n\n💬 Do you think these talks can bring the war closer to an end? 👇\n\nSources: AP, Reuters, ABC News\n\n#GlobalEye #Russia #Ukraine #PrisonerSwap #AbuDhabi #WorldNews",
+  "photo_needed": "A photo from the US-mediated Russia-Ukraine talks in Abu Dhabi (delegations at the table), or the Russian and Ukrainian negotiators.",
+  "sources": [
+   "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+   "https://www.japantimes.co.jp/news/2026/11/12/world/politics/russia-ukraine-prisoner-swap-us-talks/",
+   "https://www.abc.net.au/news/2026-11-12/ukraine-russia-agree-prisoner-swap-abu-dhabi-talks/107375462",
+   "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
+  ],
+  "email_thread_id": "1a1d2037cebd1d48",
+  "status": "expired",
+  "expired_at": "2026-11-13 12:13 PKT"
+ },
+ {
+  "slug": "2026-11-13-microsoft-365-outage",
+  "created": "2026-11-13 10:15 PKT",
+  "headline": "[Global Outage!] Microsoft Outlook and Teams Go Down for [5+ Hours]",
+  "sub": "Over 138,000 problem reports at peak",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.4,
+  "caption": "💻 Microsoft Outlook and Teams down for hours\n\nA major Microsoft 365 outage disrupted Outlook email, Teams and other Microsoft services for more than five hours on Thursday, Reuters reported. Problems began around 12:30 p.m. US Eastern time, and Microsoft said users in any region could be affected.\n\n🔹 Problem reports for Outlook on Downdetector peaked at more than 138,000, according to Reuters.\n🔹 Microsoft said a number of servers became unexpectedly unavailable because of elevated load, mainly hitting Exchange Online email.\n🔹 Microsoft said it was returning servers to service and moving traffic, and warned that recovery would be gradual as users reconnect.\n\n💬 Were you affected by the Microsoft outage? 👇\n\nSources: Reuters, ABC News\n\n#GlobalEye #Microsoft #Outlook #Teams #Outage #Tech",
+  "photo_needed": "Microsoft logo sign or Microsoft office building (no people needed). A clear photo of the Outlook or Teams logo on a screen also works.",
+  "sources": [
+   "https://ca.finance.yahoo.com/news/microsoft-outage-drags-hours-disrupting-233132055.html",
+   "https://abcnews.com/US/outlook-down-microsoft-outage-reported-mail/story?id=138088203",
+   "https://www.techradar.com/news/live/outlook-outage-nov-2026"
+  ],
+  "email_thread_id": "1a1d353262efca3e",
+  "status": "not_posted_zap_error",
+  "image": "posts/2026-11-13-microsoft-365-outage.jpg",
+  "rendered": "2026-11-13 12:58 PKT"
+ },
+ {
+  "slug": "2026-11-13-iran-bahrain-us-radar",
+  "created": "2026-11-13 14:15 PKT",
+  "headline": "[Tensions Rise!] Iran Says It Hit a [US Radar] in Bahrain",
+  "sub": "The claim has not been independently verified",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "⚠️ Iran Says It Hit a US Radar in Bahrain\n\nIran's Revolutionary Guards (IRGC) said on Friday that they targeted and destroyed a US early-warning radar in Bahrain. Iran's state news agency IRNA reported the statement. AP and Al Jazeera said the claim could not be independently verified, and the US and Bahrain did not comment straight away.\n\n🔹 The IRGC said it was a reply to an attack on a telecom tower in Sirik, a port city in southern Iran, on Thursday.\n🔹 According to Reuters, it is Iran's first claimed attack on US military assets in a Gulf country since early September.\n🔹 Bahrain hosts the headquarters of the US Navy's Fifth Fleet. The IRGC warned it is ready to act again.\n\n💬 Do you think talks can stop the tension from growing? 👇\n\nSources: AP, Al Jazeera, Reuters\n\n#GlobalEye #Iran #Bahrain #USA #MiddleEast #WorldNews",
+  "photo_needed": "A US military radar or US Navy base in Bahrain, or an IRGC missile launch photo. A map-style image of Bahrain and Iran also works (no people needed).",
+  "sources": [
+   "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+   "https://www.wsbtv.com/news/world/irans-revolutionary/6KKK7NY5UI7H5CVI3CPFD67WH4/",
+   "https://www.arabnews.com/middle-east/irans-guards-say-they-targeted-us-radar-system-in-bahrain-3011593"
+  ],
+  "email_thread_id": "1a1d42e10cf4c633",
+  "status": "not_posted_zap_error",
+  "image": "posts/2026-11-13-iran-bahrain-us-radar.jpg",
+  "rendered": "2026-11-13 14:47 PKT"
+ },
+ {
+  "slug": "2026-11-13-trump-tim-cook-nvidia",
+  "created": "2026-11-13 07:15 PKT",
+  "headline": "[New Twist!] Trump Says [Tim Cook] Should Replace Jensen Huang as Nvidia CEO",
+  "sub": "Huang agrees to testify before Congress",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.2,
+  "caption": "💻 Trump says Tim Cook should lead Nvidia\n\nUS President Donald Trump said on Thursday that Apple's Tim Cook should become the new CEO of Nvidia, after Jensen Huang stepped down. In a post on Truth Social, Trump wrote that there is \"only one man\" to take Huang's place and called it \"A Legend replaces a Legend!\"\n\n🔹 Nvidia has named its finance chief, Colette Kress, as interim CEO while its board looks for a permanent leader.\n🔹 Tim Cook stepped down as Apple CEO in September and is now executive chairman of Apple's board.\n🔹 Huang has agreed to testify before US lawmakers in a closed-door session by Thanksgiving, House Foreign Affairs Committee chairman Brian Mast said.\n\n💬 Who do you think should lead Nvidia next? 👇\n\nSources: NBC News, Fox Business, TechCrunch\n\n#GlobalEye #Nvidia #TimCook #JensenHuang #Trump #Tech",
+  "photo_needed": "Tim Cook, face clearly visible (e.g. at an Apple event). A photo of Tim Cook with Trump also works.",
+  "sources": [
+   "https://www.nbcnews.com/video/trump-recommends-tim-cook-for-nvidia-ceo-after-jensen-huang-resigns-273344581767",
+   "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
+   "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+   "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+  ],
+  "email_thread_id": "1a1d2a8fdcb0e81e",
+  "status": "expired"
+ },
+ {
+  "slug": "2026-11-13-trump-cuba-before-leaving",
+  "created": "2026-11-13 16:25 PKT",
+  "headline": "[Cuba Warning!] Trump Says He Wants to [Get Cuba Done] Before Leaving Office",
+  "sub": "He says he would consider military force",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.2,
+  "caption": "🌎 Trump Says He Wants to \"Get Cuba Done\" Before Leaving Office\n\nUS President Donald Trump said on Thursday that he wants to \"get Cuba done\" before he leaves office in 2029. Speaking in a radio interview with host Hugh Hewitt, he said he would consider using military force against Cuba and that his team is \"watching it very closely.\"\n\n🔹 Politico reported this is the first time Trump has given a timeline for possible action on Cuba.\n🔹 Trump said Secretary of State Marco Rubio, whose parents are from Cuba, \"would love to do it.\"\n🔹 Since January, the US has blocked most oil shipments to Cuba, which has led to blackouts and food and fuel shortages. Cuban officials have said the island is ready for any attack.\n\n💬 What do you think will happen next between the US and Cuba? 👇\n\nSources: Al Jazeera, Politico, The Hill\n\n#GlobalEye #Cuba #USA #Trump #WorldNews #Politics",
+  "photo_needed": "Donald Trump, face clearly visible (a recent photo). A photo of Havana, Cuba with the Cuban flag also works.",
+  "sources": [
+   "https://www.aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office",
+   "https://www.yahoo.com/news/politics/articles/trump-want-cuba-done-leaving-231522117.html",
+   "https://thehill.com/homenews/administration/6217391-trump-wants-cuba-change/"
+  ],
+  "email_thread_id": "1a1d49e63e0faa50",
+  "status": "posted_manually_by_claude",
+  "image": "posts/2026-11-13-trump-cuba-before-leaving.jpg",
+  "rendered": "2026-11-13 17:26 PKT",
+  "fb_post_id": "1401152919753922_122104569573543069"
+ },
+ {
+  "slug": "2026-11-13-nz-crush-india-89",
+  "created": "2026-11-13 16:25 PKT",
+  "headline": "[Shock Collapse!] India All Out for [89] as New Zealand Win by 244 Runs",
+  "sub": "Matt Henry takes 6 wickets, Will Young hits 125",
+  "category": "sports",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🏏 India All Out for 89 as New Zealand Win by 244 Runs\n\nNew Zealand beat India by 244 runs in the fourth ODI at Bay Oval, Mount Maunganui, on Friday. New Zealand made 333, and India were bowled out for just 89 in reply.\n\n🔹 Fast bowler Matt Henry took 6 wickets for 27 runs. Reuters reported he took three wickets in his first over, including Rohit Sharma and Virat Kohli.\n🔹 Will Young scored 125 from 108 balls, his fifth ODI hundred.\n🔹 India still lead the five-match series 2-1 (the third match was washed out by rain). The last match is on Sunday at the same ground.\n\n💬 What went wrong for India today? 👇\n\nSources: Al Jazeera, Reuters, ESPNcricinfo\n\n#GlobalEye #INDvNZ #Cricket #MattHenry #WillYoung #TeamIndia",
+  "photo_needed": "Matt Henry (New Zealand bowler) celebrating a wicket, face clearly visible. A New Zealand team celebration photo also works.",
+  "sources": [
+   "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi",
+   "https://www.easterneye.biz/india-vs-new-zealand-4th-odi-will-young-matt-henry/",
+   "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
+  ],
+  "email_thread_id": "1a1d49e505943617",
+  "image": "posts/2026-11-13-nz-crush-india-89.jpg",
+  "rendered": "2026-11-13 19:37 PKT",
+  "status": "sent_to_facebook_via_zapier"
+ },
+ {
+  "slug": "2026-11-13-pope-leo-chiclayo",
+  "created": "2026-11-13 20:40 PKT",
+  "headline": "[Big Homecoming!] Pope Leo Returns to the Peru City He Led as [Bishop]",
+  "sub": "Up to 1 million expected at his Mass",
+  "category": "world",
+  "breaking": false,
+  "focus": 0.2,
+  "caption": "🙏 Pope Leo Returns to the Peru City He Led as Bishop\n\nPope Leo XIV arrived in Chiclayo, Peru, on Friday for an outdoor Mass in the city where he served as bishop for eight years. Local officials said up to 1 million people could attend.\n\n🔹 Before becoming pope, Leo (born Robert Prevost in Chicago) worked in Peru for about 20 years as a missionary priest and bishop.\n🔹 In Lima on Wednesday, about 3 million people came out to see him, the biggest crowd of his papacy so far, Reuters reported.\n🔹 Peru is the last stop of his 12-day South America trip, after Argentina and Uruguay. He stays in the Chiclayo area until Sunday.\n\n💬 Have you ever seen the Pope in person? 👇\n\nSources: Reuters, AP\n\n#GlobalEye #PopeLeo #PopeLeoXIV #Peru #Chiclayo #Vatican",
+  "photo_needed": "Pope Leo XIV, face clearly visible (best: greeting the crowds in Peru, waving from the popemobile).",
+  "sources": [
+   "https://www.yahoo.com/news/articles/peruvians-flock-see-pope-leo-100248819.html",
+   "https://www.clickondetroit.com/news/world/2026/11/13/perus-chiclayo-welcomes-its-former-shepherd-home-and-revels-in-popes-love/"
+  ],
+  "email_thread_id": "1a1d58a847a38b7d",
+  "status": "sent_to_facebook_via_zapier",
+  "image": "posts/2026-11-13-pope-leo-chiclayo.jpg",
+  "rendered": "2026-11-13 20:44 PKT"
+ },
+ {
+  "slug": "2026-11-13-ukraine-1200-drones-russia",
+  "created": "2026-11-13 20:40 PKT",
+  "headline": "[Massive Attack!] Ukraine Fires Nearly [1,200 Drones] at Russia Overnight",
+  "sub": "Russia says it shot down 1,198 drones",
+  "category": "world",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "⚠️ Ukraine Fires Nearly 1,200 Drones at Russia Overnight\n\nUkraine launched almost 1,200 drones at Russia overnight from Thursday to Friday, one of its biggest air attacks since the full-scale war began nearly five years ago. Russia's Defence Ministry said its air defences shot down 1,198 drones over more than 15 regions.\n\n🔹 Russian officials reported deaths. At least four workers were killed in an industrial area in the Volgograd region, the regional governor said.\n🔹 Moscow's mayor said 467 drones were heading for the capital. Russia also attacked Ukraine overnight; Ukrainian officials said at least two people were killed in Odesa.\n🔹 The attack came after two days of US-led talks in Abu Dhabi. US envoys say Europe will join the next round of peace talks.\n\n💬 Do you think the peace talks can stop the war? 👇\n\nSources: AP, Al Jazeera, AFP\n\n#GlobalEye #Ukraine #Russia #Drones #UkraineWar #WorldNews",
+  "photo_needed": "A Ukrainian long-range drone, or Russian air defence firing at night, or drone wreckage in Russia. A big landscape photo works best (no people needed).",
+  "sources": [
+   "https://www.wsls.com/news/world/2026/11/13/ukraine-fires-nearly-1200-drones-at-russia-as-us-led-talks-consider-wider-european-security/",
+   "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push",
+   "https://www.brecorder.com/news/40448746/russia-says-four-killed-in-major-ukraine-drone-barrage"
+  ],
+  "email_thread_id": "1a1d58a7356532b2",
+  "status": "sent_to_facebook_via_zapier",
+  "image": "posts/2026-11-13-ukraine-1200-drones-russia.jpg",
+  "rendered": "2026-11-13 20:45 PKT"
+ },
+ {
+  "slug": "2026-11-14-lutnick-agrees-to-testify",
+  "created": "2026-11-14 07:20 PKT",
+  "headline": "[Nvidia Scandal Grows!] US Commerce Chief [Lutnick] Agrees to Testify Before Senate",
+  "sub": "Senate probe into AI chips reaching China",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.2,
+  "caption": "💻 Nvidia Scandal Grows: US Commerce Chief Lutnick Agrees to Testify Before Senate\n\nUS Commerce Secretary Howard Lutnick has agreed to appear before the Senate Banking Committee, CNN and CBS News reported on Friday. The committee is looking at how advanced Nvidia AI chips may have reached China, and why the US did not act sooner.\n\n🔹 Committee chairman Senator Tim Scott asked Lutnick to testify on December 10. A source said the details are still being worked out.\n🔹 The probe centres on Megaspeed, a Singapore-based Nvidia customer that US officials suspect of helping Chinese firms get around chip export limits. China rejects the spying claims linked to the case.\n🔹 Lawmakers have also asked former Nvidia CEO Jensen Huang, who resigned this week, to testify in early December, and warned they could use subpoenas.\n\n💬 Should the US be stricter about selling AI chips to China? 👇\n\nSources: CNN, CBS News, CNBC\n\n#GlobalEye #Nvidia #Lutnick #AIChips #China #TechNews",
+  "photo_needed": "Howard Lutnick (US Commerce Secretary), face clearly visible. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+   "https://www.cbsnews.com/news/lutnick-nvidia-ai-chips-china/",
+   "https://www.tribuneindia.com/news/commerce-secretary/us-commerce-secretary-lutnick-agrees-to-testify-before-senate-panel-over-nvidia-export-controls-controversy",
+   "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china"
+  ],
+  "email_thread_id": "1a1d7d3de93c2721",
+  "status": "sent_to_facebook_via_zapier",
+  "image": "posts/2026-11-14-lutnick-agrees-to-testify.jpg",
+  "rendered": "2026-11-14 07:22 PKT"
+ },
+ {
+  "slug": "2026-11-14-us-flights-grounded",
+  "created": "2026-11-14 08:15 PKT",
+  "headline": "[Rare Shutdown!] US Grounds Flights Nationwide for [4+ Hours]",
+  "sub": "Air traffic communication failure halts departures",
+  "category": "world",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "✈️ Rare Shutdown: US Grounds Flights Nationwide for 4+ Hours\n\nThe US Federal Aviation Administration (FAA) stopped flights from taking off at all US airports on Friday afternoon, after a communication problem hit air traffic control centres across the country. Departures were halted for more than four hours before the FAA lifted the order late Friday.\n\n🔹 The FAA said the ground stop was ordered \"for reasons of safety\" after \"communication issues\" at multiple Air Route Traffic Control Centers. Technicians are still looking into the cause.\n🔹 By Friday evening, FlightAware showed more than 1,900 flights cancelled and over 10,000 delayed in the US. Delays are expected to continue.\n🔹 Officials said there was no sign of a \"nefarious\" act. It was the first nationwide ground stop since January 2023.\n\n💬 Have you ever been stuck at an airport because of a big delay? 👇\n\nSources: CBS News, ABC News, Al Jazeera, FAA\n\n#GlobalEye #FAA #Flights #USA #AirTravel #WorldNews",
+  "photo_needed": "A busy US airport departures board showing many delayed/cancelled flights, or planes parked at a US airport gate (no person needed). A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+   "https://abc7news.com/live-updates/faa-ground-stop-live-updates-what-know-nationwide-flights-are-grounded/20038887/entry/20039063/",
+   "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue",
+   "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop",
+   "https://www.ms.now/news/faa-ground-stop-all-flights-nationwide"
+  ],
+  "email_thread_id": "1a1d80b5b43215ce",
+  "status": "expired",
+  "expired_at": "2026-11-14 17:11 PKT"
+ },
+ {
+  "slug": "2026-11-14-us-measles-status",
+  "created": "2026-11-14 10:20 PKT",
+  "headline": "[Health Setback!] US Reportedly Loses Measles-Free Status After [26 Years]",
+  "sub": "Measles kept spreading for over a year",
+  "category": "world",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🦠 Health Setback: US Reportedly Loses Measles-Free Status After 26 Years\n\nThe United States has lost its \"measles eliminated\" status, which it held since 2000, according to reports by Reuters and CNN on Friday. Reuters, citing the Wall Street Journal, said the Pan American Health Organization (PAHO) took the step because measles kept spreading in the US for more than a year.\n\n🔹 The CDC had counted 5,182 confirmed measles cases in 2026 as of Thursday, from 45 states, New York City and Washington, D.C. That is more than double the 2,289 cases in all of 2025.\n🔹 State health officials have reported at least 10 measles-related deaths in the US this year, after two more were reported in Pennsylvania and Wisconsin.\n🔹 PAHO and the US health department had not commented publicly when the reports came out. Experts say two doses of the measles vaccine give about 97% protection.\n\n💬 Do you think more people should get vaccinated against measles? 👇\n\nSources: Reuters, CNN, Al Jazeera\n\n#GlobalEye #Measles #PublicHealth #USA #Vaccines #WorldNews",
+  "photo_needed": "A measles vaccine vial and syringe (MMR vaccine), or a doctor/nurse giving a vaccine shot to a child's arm (face not needed). A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html",
+   "https://www.staradvertiser.com/2026/11/13/breaking-news/u-s-loses-measles-free-status-as-disease-continues-to-spread/",
+   "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
+   "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported",
+   "https://www.washingtonpost.com/health/2026/11/13/us-reports-least-10-measles-deaths-2026/"
+  ],
+  "email_thread_id": "1a1d87a6824a09e8",
+  "status": "expired",
+  "expired_at": "2026-11-14 19:12 PKT"
+ },
+ {
+  "slug": "2026-11-14-uruguay-beat-argentina-post-messi",
+  "created": "2026-11-14 12:15 PKT",
+  "headline": "[Post-Messi Era Begins!] Uruguay Beat Argentina [2-1] at La Bombonera",
+  "sub": "First Argentina match since Messi retired",
+  "category": "sports",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "⚽ Post-Messi Era Begins: Uruguay Beat Argentina 2-1 at La Bombonera\n\nUruguay beat Argentina 2-1 in a friendly at La Bombonera in Buenos Aires on Friday night. It was Argentina's first match since Lionel Messi retired from international football in early October.\n\n🔹 Uruguay scored twice early in the second half: a Leonardo Balerdi own goal (48') and a goal by Maxi Araújo (53'). Julián Álvarez pulled one back for Argentina in the 73rd minute.\n🔹 Argentina left the No. 10 shirt unassigned. Coach Lionel Scaloni said: \"We have to rebuild without Leo Messi, and we have the talent to bounce back from this loss.\"\n🔹 Messi ended his Argentina career with 125 goals in 207 games. Argentina play Costa Rica in Córdoba on Tuesday.\n\n💬 Who should wear Argentina's No. 10 shirt next? 👇\n\nSources: ESPN, AP\n\n#GlobalEye #Argentina #Uruguay #Messi #Football #Scaloni",
+  "photo_needed": "Argentina vs Uruguay match at La Bombonera (players in action, landscape), or Uruguay players celebrating. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50476278/scaloni-calls-rebuild-argentina-fall-first-messi",
+   "https://www.chronicleonline.com/news/world/uruguay-beats-argentina-2-1-in-the-first-match-since-lionel-messi-s-retirement/article_01ce7b22-508a-54bb-b822-4452aeca4b54.html",
+   "https://gulfnews.com/sport/football/uruguay-beats-argentina-in-first-game-since-messi-retirement-1.500746908"
+  ],
+  "email_thread_id": "1a1d8e7614e0e7bd",
+  "status": "expired",
+  "expired_at": "2026-11-14 21:10 PKT"
+ },
+ {
+  "slug": "2026-11-14-hormuz-tankers-hit-mines",
+  "created": "2026-11-14 14:20 PKT",
+  "headline": "[Hormuz Blasts!] Iran Says [3 Oil Tankers] Hit Mines and Caught Fire",
+  "sub": "Iran says ships used banned routes",
+  "category": "world",
+  "breaking": true,
+  "focus": 0.4,
+  "caption": "🚨 BREAKING: Iran Says 3 Oil Tankers Hit Mines and Caught Fire in Hormuz\n\nIran's navy and Revolutionary Guards said on Saturday that three oil tankers hit naval mines in the Strait of Hormuz and caught fire. Iran says the ships had switched off their tracking systems and were using routes it does not allow.\n\n🔹 Iran said two of the tankers were hit in the south of the strait, one of them a supertanker. A third was hit east of the strait. The ships' names and any casualties were not given, and there is no independent confirmation yet.\n🔹 The UN told the Security Council on Friday that at least 25 seafarers have been killed in and around Hormuz since the war began in February.\n🔹 Shipping through Hormuz is about 65% below pre-war levels, the UK's maritime agency (UKMTO) says. The US military says it has cleared the main routes of mines.\n\n💬 How do you think this will affect oil prices? 👇\n\nSources: AFP, Al Jazeera, Middle East Eye\n\n#GlobalEye #Hormuz #Iran #OilTankers #Shipping #WorldNews",
+  "photo_needed": "Oil tanker in the Strait of Hormuz (ideally a tanker on fire or with smoke), or a wide shot of tankers in the strait. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.brecorder.com/news/40448900/iran-reports-three-incidents-of-oil-tankers-hit-by-mines-in-hormuz",
+   "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire",
+   "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+  ],
+  "email_thread_id": "1a1d954ddf849ab2",
+  "status": "expired",
+  "expired_at": "2026-11-14 23:10 PKT"
+ },
+ {
+  "slug": "2026-11-14-trump-xi-putin-summit",
+  "created": "2026-11-14 16:25 PKT",
+  "headline": "[Historic First!] Trump, Xi and Putin to Hold [Three-Way Summit] in China",
+  "sub": "Nuclear arms and Iran war on the agenda",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.2,
+  "caption": "🌍 Historic First: Trump, Xi and Putin to Hold Three-Way Summit in China\n\nThe White House said on Friday that US President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, next week. It will be the first three-way meeting of the three leaders, held on the sidelines of the APEC summit.\n\n🔹 White House spokesperson Olivia Wales said Trump will discuss \"the reduction of nuclear weapons in the world\". The New START nuclear treaty between the US and Russia expired in February.\n🔹 US officials said the Iran war will also be discussed, but Ukraine will not. A senior US official told Reuters: \"We do not expect to get to any kind of agreement.\"\n🔹 The APEC leaders' meeting runs on 18-19 November. Moscow and Beijing had not commented when the plan was announced.\n\n💬 Do you think this meeting can lead to a nuclear deal? 👇\n\nSources: Al Jazeera, Euronews, AFP\n\n#GlobalEye #Trump #XiJinping #Putin #APEC #NuclearWeapons #WorldNews",
+  "photo_needed": "Donald Trump, Xi Jinping and Vladimir Putin - a side-by-side photo or collage of the three leaders, faces clearly visible. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
+   "https://www.euronews.com/2026/11/14/trump-xi-and-putin-to-meet-in-china-white-house-says",
+   "https://www.theweek.in/news/world/2026/11/14/trump-xi-putin-trilateral-meeting-apec.html",
+   "https://www.al-monitor.com/originals/2026/11/trump-hold-summit-xi-putin-shenzhen-thursday-ny-post-reports"
+  ],
+  "email_thread_id": "1a1d9c26c9907995",
+  "status": "expired",
+  "expired": "2026-11-15 07:10 PKT"
+ },
+ {
+  "slug": "2026-11-14-icc-ends-us-troops-afghan-probe",
+  "created": "2026-11-14 20:15 PKT",
+  "headline": "[Big Ruling!] ICC Stops Probe Into Alleged Crimes by [US Troops] in Afghanistan",
+  "sub": "Court will now focus on the Taliban",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.4,
+  "caption": "⚖️ Big Ruling: ICC Stops Probe Into Alleged Crimes by US Troops in Afghanistan\n\nJudges at the International Criminal Court (ICC) in The Hague have ordered the prosecutor to stop investigating alleged crimes by American troops in Afghanistan. The ruling was issued on Thursday and made public on Friday.\n\n🔹 The court's Afghanistan inquiry will now focus only on alleged crimes by the Taliban since 2021. A separate probe into the ISIS group in Khorasan (ISKP) was also closed.\n🔹 The judges cited \"significant limitations to the Prosecution's ability to conduct its investigations and secure evidence.\" The US troops part of the probe had been inactive since 2021.\n🔹 The prosecutor's office says it has already appealed. Arrest warrants for four Taliban leaders remain in force. The US is not an ICC member and has put sanctions on court staff.\n\n💬 Should international courts be able to investigate any country's soldiers? 👇\n\nSources: Reuters, AP, Al Jazeera\n\n#GlobalEye #ICC #Afghanistan #Taliban #USA #WorldNews",
+  "photo_needed": "International Criminal Court (ICC) building in The Hague, with the ICC sign/logo clearly visible. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "https://www.newarab.com/news/icc-stops-probe-alleged-crimes-us-troops-afghanistan",
+   "https://www.pakistantoday.com.pk/2026/11/14/icc-judges-halt-afghanistan-war-crimes-inquiry-involving-us-troops"
+  ],
+  "email_thread_id": "1a1da9e69080b047",
+  "status": "expired",
+  "expired": "2026-11-15 07:10 PKT"
+ },
+ {
+  "slug": "2026-11-14-india-beat-pak-u19-asia-cup-final",
+  "created": "2026-11-14 22:15 PKT",
+  "headline": "[Last-Ball Thriller!] India Beat Pakistan to Win [U-19 Asia Cup] Final",
+  "sub": "India chase 338 with one wicket left",
+  "category": "sports",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🏏 Last-Ball Thriller: India Beat Pakistan to Win U-19 Asia Cup Final\n\nIndia beat Pakistan by one wicket in the Under-19 Asia Cup final in Muscat, Oman, on Saturday. India needed three runs off the very last ball, and Mohit Ulva hit a four to win the match.\n\n🔹 Pakistan won the toss and made 337 for 9. Usman Khan scored 107, Abdul Qadir 80 and captain Farhan Yousaf 63. India's Kavya Patel took 4 wickets for 68 runs.\n🔹 India chased 338 and finished on 339 for 9 in 50 overs. Mohit Ulva was not out on 49 off just 26 balls.\n🔹 It is India's ninth U-19 Asia Cup title. Pakistan were the defending champions.\n\n💬 Who was your star of this final? 👇\n\nSources: ESPNcricinfo, The Week, Outlook India\n\n#GlobalEye #U19AsiaCup #INDvPAK #Cricket #Pakistan #India",
+  "photo_needed": "India Under-19 team celebrating with the U-19 Asia Cup trophy (or the India vs Pakistan U-19 final in Muscat), faces clearly visible. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.cricinfo.com/series/under-19s-asia-cup-2026-27-1558428/india-under-19s-vs-pakistan-under-19s-final-1558444/match-report",
+   "https://www.theweek.in/news/sports/2026/11/14/india-wins-u19-asia-cup-2026-pakistan.html",
+   "https://outlookindia.com/sports/cricket/who-is-mohit-ulva-the-miracle-boy-who-smashed-last-ball-four-to-steer-india-to-u19-asia-cup-title-vs-pakistan",
+   "https://www.crictracker.com/cricket-news/india-pull-off-stunning-338-run-chase-to-defeat-pakistan-in-u19-asia-cup-final-7032/"
+  ],
+  "email_thread_id": "1a1db0c84056243d",
+  "status": "expired",
+  "expired": "2026-11-15 07:10 PKT"
+ },
+ {
+  "slug": "2026-11-15-starship-caught-after-orbit",
+  "created": "2026-11-15 07:15 PKT",
+  "headline": "[History Made!] SpaceX Catches Starship With Tower Arms After [14 Orbits]",
+  "sub": "First catch of a Starship back from space",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🚀 History Made: SpaceX Catches Starship With Tower Arms After 14 Orbits\n\nSpaceX caught its Starship spacecraft with the giant arms of its launch tower at Starbase, Texas, on Saturday. It is the first time a Starship has been caught after returning from space. The ship landed about 22 hours after it took off on Friday.\n\n🔹 On its 15th test flight, Starship circled Earth 14 times at about 265 km (165 miles) up and released 26 Starlink satellites.\n🔹 The Super Heavy booster did not come back as planned. Its engines stopped too early and it was destroyed over the Gulf of Mexico. SpaceX is investigating.\n🔹 Catching rockets is key to reusing them. NASA plans to use Starship as a Moon lander. NASA chief Jared Isaacman said: \"It was almost magic.\"\n\n💬 Would you like to travel to space one day? 👇\n\nSources: AP, CNN, CNBC\n\n#GlobalEye #SpaceX #Starship #ElonMusk #Space #NASA",
+  "photo_needed": "SpaceX Starship spacecraft held by the launch tower arms (\"Mechazilla\") at Starbase, Texas - or a Starship launch photo. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.ntd.com/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first_1185371.html",
+   "https://cbs12.com/news/nation-world/spacex-catches-starship-after-orbit-in-historic-first-as-booster-explodes-over-gulf",
+   "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+   "https://www.cnn.com/2026/11/13/science/live-news/spacex-starship-flight-15-ship-catch"
+  ],
+  "email_thread_id": "1a1dcfb3ca299b82",
+  "status": "sent_to_facebook_via_zapier",
+  "image": "posts/2026-11-15-starship-caught-after-orbit.jpg",
+  "rendered": "2026-11-15 07:44 PKT"
+ },
+ {
+  "slug": "2026-11-15-denmark-thrash-portugal",
+  "created": "2026-11-15 14:12 PKT",
+  "headline": "[Heaviest Home Loss!] Portugal Crushed [4-1] by Denmark in First Game Without Ronaldo",
+  "sub": "Hojlund scores twice in Nations League rout",
+  "category": "sports",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "⚽ Heaviest Home Loss! Portugal Crushed 4-1 by Denmark in First Game Without Ronaldo\n\nDenmark beat Portugal 4-1 in Braga on Saturday in the UEFA Nations League. It was Portugal's first match since Cristiano Ronaldo announced his international retirement last week.\n\n🔹 Pierre-Emile Hojbjerg scored a penalty before half-time, Rasmus Hojlund scored twice early in the second half, and Joachim Andersen added a header. Bernardo Silva scored late for Portugal.\n🔹 ESPN says it is Portugal's heaviest home defeat in a competitive match.\n🔹 Portugal are already in the quarter-finals but must avoid defeat against Wales on Tuesday to win the group.\n\n💬 Can Portugal bounce back without Ronaldo? 👇\n\nSources: ESPN, BBC Sport\n\n#GlobalEye #Football #NationsLeague #Portugal #Denmark #Ronaldo #Hojlund",
+  "photo_needed": "Denmark players celebrating a goal against Portugal in Braga (Rasmus Hojlund if possible), or the match scene. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo",
+   "https://sports.yahoo.com/articles/portugal-humbled-first-game-since-220543680.html"
+  ],
+  "email_thread_id": "1a1de7b04bdbba8d",
+  "status": "sent_to_facebook_via_zapier",
+  "image": "posts/2026-11-15-denmark-thrash-portugal.jpg",
+  "rendered": "2026-11-15 14:57 PKT"
+ },
+ {
+  "slug": "2026-11-15-hamas-rafah-chief-killed",
+  "created": "2026-11-15 10:15 PKT",
+  "headline": "[Gaza Strike] Israel Kills Hamas Rafah Brigade Chief [Samir Abu Younis]",
+  "sub": "Hamas confirms death; strike hit Khan Younis",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "📍 Gaza Strike Israel Kills Hamas Rafah Brigade Chief Samir Abu Younis\n\nIsrael's military says it carried out a strike on Saturday that targeted a senior commander of Hamas's armed wing in Khan Younis, southern Gaza. Hamas confirmed that Samir Abu Younis, the commander of its Rafah brigade, was killed. Medics said the strike hit the Mawasi area and wounded others.\n\n🔹 Abu Younis, 53, had been a member of Hamas's armed wing, the Al-Qassam Brigades, since 1991, Reuters reported.\n🔹 Gaza health authorities say at least 1,600 Palestinians have been killed since the October 2025 ceasefire began. Five Israeli soldiers have died in the same period.\n🔹 The ceasefire stopped major fighting, but strikes have continued and Hamas has not disarmed.\n\n💬 What do you think is next for the Gaza ceasefire? 👇\n\nSources: Reuters, Al Jazeera\n\n#GlobalEye #Gaza #Hamas #Israel #KhanYounis #MiddleEast",
+  "photo_needed": "Khan Younis / al-Mawasi area of southern Gaza (tents, street or smoke after the strike - no graphic images), or an official photo of Samir Abu Younis if one exists. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.arabnews.com/middle-east/israeli-military-says-it-struck-senior-commander-in-hamas-military-wing-3011955",
+   "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza"
+  ],
+  "email_thread_id": "1a1dd9f2ee68aa0d",
+  "status": "expired",
+  "expired_at": "2026-11-15 20:10 PKT"
+ },
+ {
+  "slug": "2026-11-15-estonia-closes-russia-border",
+  "created": "2026-11-15 22:12 PKT",
+  "headline": "[Border Shutdown!] Estonia to Close All Crossings With Russia From [December 1]",
+  "sub": "Tallinn blames Russian spy agency for arson plot",
+  "category": "politics",
+  "breaking": true,
+  "focus": 0.3,
+  "caption": "🚨 BREAKING: Border Shutdown! Estonia to Close All Crossings With Russia From December 1\n\nEstonia will close all of its border crossings with Russia from December 1, Foreign Minister Margus Tsahkna announced on Sunday. The decision comes after an attempted arson attack on Estonian drone maker Threod Systems early on Saturday, which Estonian authorities say was ordered by Russia's GRU military intelligence service.\n\n🔹 Three crossings are open now, at Narva, Koidula and Luhamaa. The minister did not say how long the closure will last.\n🔹 Eight people were detained over the attack, which caused only minor damage. Russia had not commented, and it has denied similar accusations in the past.\n🔹 Tsahkna said: \"Russia must understand that hostile actions against Estonia come with consequences.\" Finland, Latvia and Lithuania have been informed.\n\n💬 Do you think closing the border will make Estonia safer? 👇\n\nSources: Reuters, dpa\n\n#GlobalEye #Estonia #Russia #Europe #Narva #BorderClosure",
+  "photo_needed": "Estonia-Russia border crossing at Narva (the bridge / checkpoint, or Narva castle by the border river), or Estonian Foreign Minister Margus Tsahkna with face clearly visible.",
+  "sources": [
+   "https://theprint.in/world/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/3099582/",
+   "https://www.yahoo.com/news/world/articles/estonia-close-russia-borders-over-163331380.html",
+   "https://www.jpost.com/international/article-914975"
+  ],
+  "email_thread_id": "1a1e032507e9b0a2",
+  "status": "expired",
+  "expired": "2026-11-16 07:11 PKT"
+ }
 ]
