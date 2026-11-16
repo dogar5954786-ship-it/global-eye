@@ -465,5 +465,43 @@
   "email_thread_id": "1a1e2589d5ab4bcb",
   "status": "expired",
   "expired_at": "2026-11-16 17:15 PKT"
+ },
+ {
+  "slug": "2026-11-16-england-end-spain-run",
+  "created": "2026-11-16 10:20 PKT",
+  "headline": "[43-Game Run Over!] 10-Man England Stun Spain [3-2] in Madrid",
+  "sub": "England top Nations League group",
+  "category": "sports",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "⚽ 43-Game Run Over! 10-Man England Stun Spain 3-2 in Madrid\n\nEngland beat world champions Spain 3-2 in the UEFA Nations League on Sunday night at the Metropolitano stadium in Madrid. The result ended Spain's 43-match unbeaten run.\n\n🔹 Harry Kane scored a penalty just before half-time, then Ezri Konsa (53rd minute) and Ben White added goals to make it 3-0.\n🔹 England's Elliot Anderson was sent off for a foul on Lamine Yamal. Mikel Oyarzabal scored the penalty, and substitute Nico Williams made it 3-2.\n🔹 England finish top of Group A3 on goal difference. Both teams go through to the Nations League quarter-finals in March.\n\n💬 Was this England's best win in years? 👇\n\nSources: AFP, ESPN, The National\n\n#GlobalEye #England #Spain #NationsLeague #HarryKane #Football",
+  "photo_needed": "England players celebrating a goal against Spain in Madrid (e.g. Harry Kane, Ezri Konsa or Ben White), faces clearly visible.",
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50493712/england-spain-43-game-unbeaten-run",
+   "https://sports.yahoo.com/articles/england-beat-spain-nations-league-220146383.html",
+   "https://www.thenationalnews.com/sport/football/2026/11/16/nations-league-england-end-spains-long-unbeaten-run-with-massive-win-in-madrid/"
+  ],
+  "email_thread_id": "1a1e2c65038dd097",
+  "status": "expired",
+  "expired_at": "2026-11-16 19:16 PKT"
+ },
+ {
+  "slug": "2026-11-16-vulcan-loses-amazon-satellites",
+  "created": "2026-11-16 10:20 PKT",
+  "headline": "[First-Ever Failure!] ULA Rocket Loses [40 Amazon Satellites] After Launch",
+  "sub": "Vulcan fails 10 minutes into flight",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.4,
+  "caption": "🚀 First-Ever Failure! ULA Rocket Loses 40 Amazon Satellites After Launch\n\nA Vulcan rocket from United Launch Alliance (ULA), a joint company of Boeing and Lockheed Martin, failed after lifting off from Cape Canaveral, Florida, on Sunday, November 15. All 40 satellites it carried for Amazon's Leo internet network were lost.\n\n🔹 ULA said the rocket \"suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit.\" The cause is not yet known.\n🔹 It is ULA's first full mission failure since the company was formed in 2006. It was the fifth Vulcan flight and its first in nine months.\n🔹 ULA says it will investigate with its customer and return to flight as quickly as possible. NASA has offered to help. Amazon Leo is building a satellite internet network to compete with SpaceX's Starlink.\n\n💬 Can Amazon still catch up with Starlink? 👇\n\nSources: Reuters, Anadolu Agency, Spaceflight Now\n\n#GlobalEye #ULA #Vulcan #Amazon #AmazonLeo #Space",
+  "photo_needed": "ULA Vulcan rocket on the launch pad or lifting off at Cape Canaveral (wide landscape photo, e.g. from ULA's website or press kit).",
+  "sources": [
+   "https://www.investing.com/news/stock-market-news/us-rocket-fails-after-launch-payload-of-amazon-internet-satellites-destroyed-5028094",
+   "https://www.aa.com.tr/en/americas/us-rocket-firm-ula-fails-to-deploy-40-amazon-leo-satellites-after-flight-anomaly/4126036",
+   "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+  ],
+  "email_thread_id": "1a1e2c669f7c8d74",
+  "status": "expired",
+  "expired_at": "2026-11-16 19:16 PKT"
  }
 ]
