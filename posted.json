@@ -560,5 +560,25 @@
     "status": "sent_to_facebook_via_zapier",
     "image": "posts/2026-11-17-us-ai-chip-remote-access-rule.jpg",
     "rendered": "2026-11-17 08:07 PKT"
+  },
+  {
+    "slug": "2026-11-17-trump-may-meet-kim",
+    "created": "2026-11-17 08:20 PKT",
+    "headline": "[Surprise Hint!] Trump Says He May Meet [Kim Jong Un] in China",
+    "sub": "Says it is up to China's Xi",
+    "category": "politics",
+    "breaking": false,
+    "focus": 0.25,
+    "caption": "🇺🇸🇰🇵 Surprise Hint! Trump Says He May Meet Kim Jong Un in China\n\nUS President Donald Trump said on Monday, November 16, that he may meet North Korean leader Kim Jong Un during his trip to China. Speaking to reporters at the White House before leaving for Asia, he said: \"He may come. I don't know. That's up to President Xi.\"\n\n🔹 Trump is due to meet China's Xi Jinping and Russia's Vladimir Putin on the sidelines of the APEC summit in Shenzhen, China.\n🔹 There are no known plans for a meeting yet. North Korea is not an APEC member, and South Korea's foreign minister said Kim was unlikely to attend.\n🔹 Trump and Kim met three times during Trump's first term: in Singapore (2018), Hanoi (2019) and at the Korean border village of Panmunjom (2019).\n\n💬 Do you think a fourth Trump-Kim meeting will happen? 👇\n\nSources: ABC News, Yonhap\n\n#GlobalEye #Trump #KimJongUn #NorthKorea #China #APEC",
+    "photo_needed": "Donald Trump and Kim Jong Un together (e.g. their 2019 meeting at Panmunjom or 2018 Singapore summit), both faces clearly visible. Wide landscape photo.",
+    "sources": [
+      "https://abcnews.com/Politics/live-updates/trump-asia-trip-2026/?id=138187702",
+      "https://www.koreajoongangdaily.com/world/trump-signals-possible-meeting-with-kim-in-china/12975878",
+      "https://www.usnews.com/news/world/articles/2026-11-16/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china"
+    ],
+    "email_thread_id": "1a1e782c6f7d5f44",
+    "status": "sent_to_facebook_via_zapier",
+    "image": "posts/2026-11-17-trump-may-meet-kim.jpg",
+    "rendered": "2026-11-17 08:24 PKT"
   }
 ]
