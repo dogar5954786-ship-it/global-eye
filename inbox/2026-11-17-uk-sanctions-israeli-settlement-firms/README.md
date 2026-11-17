@@ -1,0 +1,1 @@
+PHOTO NEEDED: A wide view of an Israeli settlement or settlement construction site in the West Bank (cranes, new buildings on a hillside), or UK Foreign Secretary Ed Miliband with face clearly visible. Wide landscape photo.
