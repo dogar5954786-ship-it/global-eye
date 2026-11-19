@@ -850,5 +850,26 @@
     "email_thread_id": "1a1ef399895c5ee8",
     "status": "expired",
     "expired_at": "2026-11-19 07:12 PKT"
+  },
+  {
+    "slug": "2026-11-19-gta6-launches",
+    "created": "2026-11-19 07:15 PKT",
+    "headline": "[It's Here!] GTA 6 Launches Today, [13 Years] After GTA 5",
+    "sub": "PS5 and Xbox only, $80 standard edition",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🎮 It's Here! GTA 6 Launches Today, 13 Years After GTA 5\n\nRockstar Games' Grand Theft Auto VI launches today, Thursday, November 19. Rockstar says it unlocks at midnight local time in each region, so some countries get it hours before others. It is the first new main GTA game since GTA V came out in 2013.\n\n🔹 It is out on PlayStation 5 and Xbox Series X|S. There is no PC version yet. The standard edition costs $80 and the Ultimate Edition costs $100.\n🔹 Sony and Microsoft both say it is the most pre-ordered game in the history of their digital stores.\n🔹 The game is set in Vice City and the state of Leonida, inspired by Miami and Florida. Its two main characters are Jason Duval and Lucia Caminos, the series' first female lead.\n\n💬 Are you playing GTA 6 this week? 👇\n\nSources: Rockstar Games, ABC News, Forbes\n\n#GlobalEye #GTA6 #GrandTheftAuto #RockstarGames #Gaming #PS5",
+    "photo_needed": "Official Grand Theft Auto VI key art or cover image (Jason and Lucia), or the GTA VI logo, from Rockstar's website or press kit. A big, clear, landscape image works best.",
+    "sources": [
+      "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+      "https://abcnews.com/GMA/Culture/grand-theft-auto-vi-pre-order/story?id=134216152",
+      "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/",
+      "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    ],
+    "email_thread_id": "1a1f19541b49b1cc",
+    "status": "sent_to_facebook_via_zapier",
+    "image": "posts/2026-11-19-gta6-launches.jpg",
+    "rendered": "2026-11-19 07:20 PKT"
   }
 ]
