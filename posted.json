@@ -972,5 +972,26 @@
     "updated": "2026-11-19 20:25 PKT (joint declaration added)",
     "status": "expired",
     "expired_at": "2026-11-19 23:10 PKT"
+  },
+  {
+    "slug": "2026-11-19-anthropic-shares-soar-debut",
+    "created": "2026-11-19 22:20 PKT",
+    "headline": "[Huge Debut!] Anthropic Shares Open [34% Higher] on Nasdaq",
+    "sub": "Company valued above $2 trillion",
+    "category": "tech",
+    "breaking": true,
+    "focus": 0.25,
+    "caption": "🚨 BREAKING: Anthropic Shares Open 34% Higher on Nasdaq\n\nAnthropic, the company behind the AI assistant Claude, started trading on the Nasdaq on Thursday, November 19, under the ticker \"ANT\". Its shares opened at $111.50, about 34% above the IPO price of $83, putting the company's value above $2 trillion at the open.\n\n🔹 The IPO raised about $81.3 billion, the biggest stock market listing on record, ahead of SpaceX's $75 billion in June.\n🔹 CEO Dario Amodei and president Daniela Amodei rang the Nasdaq opening bell.\n🔹 The IPO price of $83 was set above the planned range of $70 to $78 per share.\n\n💬 Would you buy shares in an AI company? 👇\n\nSources: CNBC, CNN, Forbes, Investing.com\n\n#GlobalEye #Anthropic #Claude #IPO #Nasdaq #AI",
+    "photo_needed": "Dario Amodei (and Daniela Amodei) ringing the Nasdaq bell or on the Nasdaq stage today, faces clearly visible; or the Anthropic name on the Nasdaq tower in Times Square. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo",
+      "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-as-record-stock-debut-could-open-25-higher/",
+      "https://www.investing.com/news/stock-market-news/anthropic-opens-34-above-ipo-price-reaches-2-trillion-valuation-in-nasdaq-debut-5039595",
+      "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159"
+    ],
+    "email_thread_id": "1a1f4cc08781a69d",
+    "status": "expired",
+    "expired_at": "2026-11-20 07:12 PKT"
   }
 ]
