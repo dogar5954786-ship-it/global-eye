@@ -1014,5 +1014,24 @@
     "email_thread_id": "1a1f6f1ce2a6781b",
     "status": "expired",
     "expired_at": "2026-11-20 17:13 PKT"
+  },
+  {
+    "slug": "2026-11-20-bukele-third-term-bid",
+    "created": "2026-11-20 12:15 PKT",
+    "headline": "[Third Term Bid!] El Salvador's Bukele Files to Run Again in [2027]",
+    "sub": "Election set for February 28, 2027",
+    "category": "politics",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "🗳️ El Salvador's Bukele Files to Run for a Third Term\n\nEl Salvador's President Nayib Bukele has officially signed up to run for a third term. He handed in his candidate papers to the Supreme Electoral Tribunal on Thursday night, the last day for registration.\n\n🔹 The presidential election is set for February 28, 2027. Bukele leads the Nuevas Ideas (New Ideas) party, which controls the country's congress.\n🔹 A 2025 constitutional change allowed him to run again and made the presidential term six years instead of five.\n🔹 Recent polls put his approval at around 90%. Opposition figures and international observers say his plan to stay in office is illegal.\n\n💬 Should presidents have term limits? 👇\n\nSources: AP, Al Jazeera / Reuters\n\n#GlobalEye #ElSalvador #Bukele #Election2027 #LatinAmerica #WorldNews",
+    "photo_needed": "Nayib Bukele, face clearly visible (recent photo). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+      "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term",
+      "https://elcomercio.pe/mundo/centroamerica/nayib-bukele-inscribio-su-candidatura-para-un-tercer-mandato-en-el-salvador-elecciones-2027-tribunal-supremo-electoral-ultimas-noticia"
+    ],
+    "email_thread_id": "1a1f7cea0a6dd976",
+    "status": "expired",
+    "expired_at": "2026-11-20 21:12 PKT"
   }
 ]
