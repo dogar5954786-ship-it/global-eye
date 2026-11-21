@@ -1,0 +1,1 @@
+Photo needed: The COP31 climate summit venue or main hall in Antalya, Turkey (delegates, COP31 sign), or COP31 President Murat Kurum speaking, face clearly visible. A big, clear, landscape photo works best.
