@@ -1033,5 +1033,62 @@
     "email_thread_id": "1a1f7cea0a6dd976",
     "status": "expired",
     "expired_at": "2026-11-20 21:12 PKT"
+  },
+  {
+    "slug": "2026-11-20-russia-strikes-kyiv-bridges",
+    "created": "2026-11-20 16:20 PKT",
+    "headline": "[Bridge Attack!] Russian Missiles Hit Three Kyiv Bridges, [8 Killed] in Ukraine",
+    "sub": "Strikes follow Putin's warning over Kerch Bridge",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.4,
+    "caption": "🇺🇦 Russian Missiles Hit Three Kyiv Bridges, 8 Killed in Ukraine\n\nRussia launched a large overnight attack on Ukraine on Thursday night into Friday, using missiles and drones. Kyiv Mayor Vitali Klitschko said ballistic missiles damaged the Podilskyi, Darnytskyi and Southern bridges over the Dnipro River, and traffic on them has been restricted.\n\n🔹 Ukraine's prime minister said at least 8 people were killed across the country, including 6 in Kyiv, and 28 were wounded.\n🔹 Power was cut in parts of Kyiv. Ukraine's energy ministry said nuclear plants had to reduce output, causing outages in Kyiv and 10 regions.\n🔹 Russia's Defence Ministry said it targeted bridges \"used to transport weapons\". On Thursday, Putin promised to respond after Ukraine damaged the Kerch Bridge to Crimea.\n\n💬 Will attacks on bridges change the course of the war? 👇\n\nSources: Al Jazeera / Reuters, AP\n\n#GlobalEye #Ukraine #Kyiv #Russia #UkraineWar #WorldNews",
+    "photo_needed": "A damaged bridge in Kyiv after the Russian strike (e.g. Podilskyi Bridge), or emergency workers at the scene in Kyiv. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+      "https://www.ksat.com/news/world/2026/11/20/russian-attacks-on-kyiv-kill-3-cripple-bridges-and-cut-power/",
+      "https://kyivindependent.com/russia-launches-mass-missile-attack-against-ukraine-after-putin-vows-revenge/"
+    ],
+    "email_thread_id": "1a1f8ab01f70fe8f",
+    "status": "expired",
+    "expired_at": "2026-11-21 07:12 PKT"
+  },
+  {
+    "slug": "2026-11-20-russian-missile-hits-poland",
+    "created": "2026-11-20 18:20 PKT",
+    "headline": "[Airspace Violation!] Russian Cruise Missile Crashes in [Poland] Near Allied Drills",
+    "sub": "NATO jets scrambled, no one hurt",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🇵🇱 Russian Cruise Missile Crashes in Poland Near Allied Drills\n\nPoland says a Russian cruise missile crashed in a rural area at Nowy Lipowiec in southeastern Poland at about 06:30 local time on Friday. Defence Minister Wladyslaw Kosiniak-Kamysz said it was a Kh-101 missile, one of three objects that entered Polish airspace during a large Russian attack on Ukraine.\n\n🔹 The BBC reported that nobody was hurt and no damage was reported. Another suspected missile came down near Rudnik nad Sanem, and a drone crashed near Mołodycz.\n🔹 Prime Minister Donald Tusk said it was \"no coincidence\" the objects landed near military drills by the \"coalition of the willing\" taking place in Nowa Dęba.\n🔹 NATO chief Mark Rutte condemned \"grave violations of Polish airspace\" and said NATO jets were scrambled. Poland called it a provocation and will ask NATO for more support. Russia has not commented.\n\n💬 How should NATO respond to this? 👇\n\nSources: BBC, AP\n\n#GlobalEye #Poland #NATO #Russia #Ukraine #WorldNews",
+    "photo_needed": "The missile crash site at Nowy Lipowiec in southeastern Poland, or Polish soldiers/police at the scene, or Polish PM Donald Tusk speaking. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.yahoo.com/news/world/articles/russian-cruise-missile-crashes-poland-120933505.html",
+      "https://www.cp24.com/news/world/2026/11/20/russian-missiles-crash-in-poland-was-likely-an-intentional-provocation-polish-prime-minister-says/"
+    ],
+    "email_thread_id": "1a1f91a31c362039",
+    "status": "expired",
+    "expired_at": "2026-11-21 07:12 PKT"
+  },
+  {
+    "slug": "2026-11-20-uk-eu-brexit-reset-deal",
+    "created": "2026-11-20 22:20 PKT",
+    "headline": "[Brexit Reset!] UK and EU Seal New Deal, Youth Scheme for [100,000]",
+    "sub": "Young people can work and study across borders",
+    "category": "politics",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "🇬🇧🇪🇺 UK and EU Seal New Deal, Youth Scheme for 100,000\n\nThe UK and the European Union agreed a deal to rebuild ties at a summit in Brussels on Friday, about 10 years after the Brexit vote. \"The deal is done. Negotiations have concluded,\" a UK government spokesperson said. Prime Minister Andy Burnham met EU leaders Ursula von der Leyen and António Costa.\n\n🔹 Youth scheme: up to 100,000 people under 30 from each side will be able to work, study or travel for up to three years.\n🔹 A food trade deal will cut checks on animals, plants and related products, worth an estimated £5.1 billion. The two sides will also link their carbon markets, so goods like steel avoid each other's border carbon charges.\n🔹 Nothing was signed on Friday. Each side must now complete its legal process, and talks on university fees for EU students will continue for six months. Reform UK leader Nigel Farage criticised the deal.\n\n💬 Is closer UK-EU cooperation a good idea? 👇\n\nSources: Al Jazeera, Reuters\n\n#GlobalEye #UK #EU #Brexit #AndyBurnham #Europe",
+    "photo_needed": "Andy Burnham with Ursula von der Leyen (and/or António Costa) at the EU-UK summit in Brussels, faces clearly visible. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal",
+      "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far",
+      "https://www.globalbankingandfinance.com/britain-eu-agree-deals-food-trade-youth-mobility-joint/",
+      "https://www.cityam.com/burnham-agrees-youth-migration-for-100000-in-eu-summit/"
+    ],
+    "email_thread_id": "1a1f9f37c5bab313",
+    "status": "expired",
+    "expired_at": "2026-11-21 07:12 PKT"
   }
 ]
