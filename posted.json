@@ -1186,7 +1186,8 @@
       "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack"
     ],
     "email_thread_id": "1a1fdcf02e1d7ff3",
-    "status": "expired"
+    "status": "expired",
+    "expired_at": "2026-11-22 07:12 PKT"
   },
   {
     "slug": "2026-11-21-russian-ship-drones-gulf-finland",
@@ -1203,7 +1204,8 @@
       "https://www.themoscowtimes.com/2026/11/21/russia-says-cargo-vessel-struck-by-drones-in-gulf-of-finland-a94342"
     ],
     "email_thread_id": "1a1feb1e0095fa99",
-    "status": "expired"
+    "status": "expired",
+    "expired_at": "2026-11-22 07:12 PKT"
   },
   {
     "slug": "2026-11-21-hormuz-three-tankers-attacked",
@@ -1220,6 +1222,7 @@
       "https://whbl.com/2026/11/21/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says/"
     ],
     "email_thread_id": "1a1ff1930a83a9e4",
-    "status": "expired"
+    "status": "expired",
+    "expired_at": "2026-11-22 07:12 PKT"
   }
 ]
