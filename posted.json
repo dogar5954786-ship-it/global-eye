@@ -1169,5 +1169,57 @@
     "email_thread_id": "1a1fcf352a4505fa",
     "status": "expired",
     "expired_at": "2026-11-21 20:21 PKT"
+  },
+  {
+    "slug": "2026-11-21-kryvyi-rih-double-tap-strike",
+    "created": "2026-11-21 16:15 PKT",
+    "headline": "[Double-Tap Strike!] Russian Missiles Hit Zelensky's Hometown, [7-Year-Old] Among Dead",
+    "sub": "Rescue worker killed, 60 wounded in Kryvyi Rih",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚠️ Double-Tap Strike! Russian Missiles Hit Zelensky's Hometown, 7-Year-Old Among Dead\n\nA Russian strike hit the centre of Kryvyi Rih, President Volodymyr Zelensky's hometown in central Ukraine, on Friday night. Ukrainian officials said a 7-year-old boy and a 20-year-old rescue worker were killed.\n\n🔹 60 people were wounded, including six children, said regional head Oleksandr Hanzha.\n🔹 Ukrainian authorities called it a \"double-tap\" attack: a second strike hit as emergency crews arrived at the scene.\n🔹 City head Oleksandr Vilkul said about 25 apartment buildings, a hospital and schools were damaged.\n\n💬 What should be done to protect rescue workers in war zones? 👇\n\nSources: AP, Al Jazeera\n\n#GlobalEye #Ukraine #KryvyiRih #Russia #Zelensky #UkraineWar",
+    "photo_needed": "Damaged apartment buildings or rescue workers at the strike site in Kryvyi Rih, Ukraine (or a wide view of Kryvyi Rih). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.news4jax.com/news/world/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-in-central-ukraine-kills-2-and-wounds-scores/",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike",
+      "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack"
+    ],
+    "email_thread_id": "1a1fdcf02e1d7ff3",
+    "status": "expired"
+  },
+  {
+    "slug": "2026-11-21-russian-ship-drones-gulf-finland",
+    "created": "2026-11-21 20:20 PKT",
+    "headline": "[Drone Attack!] Russian Cargo Ship Set on Fire in [Gulf of Finland]",
+    "sub": "Crew evacuated as Finland alerts its allies",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚠️ Drone Attack! Russian Cargo Ship Set on Fire in Gulf of Finland\n\nTwo drones struck a cargo ship heading to Russia's Kaliningrad region in the Gulf of Finland on Saturday morning, officials said. Finland's Border Guard said the ship was on fire, and its crew was being evacuated.\n\n🔹 Russian regional governor Alexander Drozdenko said the ship was hit by two drones about three nautical miles from Russia's border.\n🔹 Finland said the burning ship drifted from international waters into Finnish waters. It limited air and sea traffic in the area as a precaution and informed its allies.\n🔹 No one has claimed the attack. Kaliningrad's governor said supplies to the region are not at risk.\n\n💬 Are you worried about rising tension in the Baltic Sea? 👇\n\nSources: Reuters, Al Jazeera\n\n#GlobalEye #Finland #Russia #BalticSea #Kaliningrad #GulfOfFinland",
+    "photo_needed": "The burning Russian cargo ship in the Gulf of Finland, or a Finnish Border Guard ship at sea in the Gulf of Finland. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+      "https://www.themoscowtimes.com/2026/11/21/russia-says-cargo-vessel-struck-by-drones-in-gulf-of-finland-a94342"
+    ],
+    "email_thread_id": "1a1feb1e0095fa99",
+    "status": "expired"
+  },
+  {
+    "slug": "2026-11-21-hormuz-three-tankers-attacked",
+    "created": "2026-11-21 22:15 PKT",
+    "headline": "[Tanker Attacks!] At Least [3 Oil Tankers] Hit Near Strait of Hormuz",
+    "sub": "Iran also shows new missile launcher",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚠️ Tanker Attacks! At Least 3 Oil Tankers Hit Near Strait of Hormuz\n\nAt least three oil tankers were attacked in or near the Strait of Hormuz on Saturday, AP reported. The UK's maritime agency UKMTO said two tankers leaving the Persian Gulf were hit by unidentified projectiles near Oman's Khasab.\n\n🔹 One tanker was hit in the stern and one in the engine room. UKMTO said no casualties were reported.\n🔹 Iran's navy said a tanker hit a naval mine east of the strait and caught fire. Iran did not comment on the UKMTO reports.\n🔹 Iran's Revolutionary Guard also showed a new launcher on state TV that it says can fire two liquid-fuelled missiles at once.\n\n💬 Will these attacks push up fuel prices where you live? 👇\n\nSources: AP, Reuters\n\n#GlobalEye #StraitOfHormuz #Iran #OilTankers #Oman #MiddleEast",
+    "photo_needed": "An oil tanker sailing in the Strait of Hormuz, or a burning oil tanker at sea in the Gulf. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.click2houston.com/news/world/2026/11/21/iran-strikes-3-tankers-as-it-shows-off-missile-launchers-and-other-mideast-news/",
+      "https://whbl.com/2026/11/21/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says/"
+    ],
+    "email_thread_id": "1a1ff1930a83a9e4",
+    "status": "expired"
   }
 ]
