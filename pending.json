@@ -31,5 +31,21 @@
       "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
     ],
     "email_thread_id": "1a2013dec1ac587f"
+  },
+  {
+    "slug": "2026-11-22-claude-riemann-proof-verified",
+    "created": "2026-11-22 14:25 PKT",
+    "headline": "[167-Year Puzzle] Computer Check Backs AI-Assisted Proof of [Riemann Hypothesis]",
+    "sub": "Maths groups say they have full confidence",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🧮 167-Year Puzzle: Computer Check Backs AI-Assisted Proof of Riemann Hypothesis\n\nLevent Alpöge, a mathematician at Anthropic, says he proved the Riemann hypothesis, one of the most famous unsolved problems in maths, with help from the company's AI model Claude. He posted the claim on Friday, and on Saturday two maths groups said a computer check of his proof found it correct.\n\n🔹 The Lean FRO and the Mathlib Initiative reviewed the proof written in the Lean computer language and said they have \"full confidence\" it is correct.\n🔹 Alpöge says Claude helped him build the solution over about six weeks. The problem was first posed in 1859.\n🔹 The Clay Mathematics Institute's $1 million prize still requires publication and years of review by other mathematicians.\n\n💬 Could AI help solve other big science mysteries? 👇\n\nSources: The Guardian, Bloomberg\n\n#GlobalEye #RiemannHypothesis #Anthropic #Claude #AI #Mathematics",
+    "photo_needed": "Levent Alpöge, face clearly visible (or the Anthropic logo / Claude logo sign, or a chalkboard with the Riemann zeta function). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude"
+    ],
+    "email_thread_id": ""
   }
 ]
