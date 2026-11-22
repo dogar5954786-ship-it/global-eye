@@ -1,0 +1,1 @@
+PHOTO NEEDED: Mexican soldiers or military vehicles in Sinaloa, or burned vehicles on a road in Guasave, Sinaloa (or the FBI Ten Most Wanted photo of Fausto Isidro Meza Flores). A big, clear, landscape photo works best.
