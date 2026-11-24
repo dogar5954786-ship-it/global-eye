@@ -1260,5 +1260,42 @@
     "email_thread_id": "1a2013dec1ac587f",
     "status": "expired",
     "expired_at": "2026-11-22 17:12 PKT"
+  },
+  {
+    "slug": "2026-11-22-claude-riemann-proof-verified",
+    "created": "2026-11-22 14:25 PKT",
+    "headline": "[167-Year Puzzle] Computer Check Backs AI-Assisted Proof of [Riemann Hypothesis]",
+    "sub": "Maths groups say they have full confidence",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🧮 167-Year Puzzle: Computer Check Backs AI-Assisted Proof of Riemann Hypothesis\n\nLevent Alpöge, a mathematician at Anthropic, says he proved the Riemann hypothesis, one of the most famous unsolved problems in maths, with help from the company's AI model Claude. He posted the claim on Friday, and on Saturday two maths groups said a computer check of his proof found it correct.\n\n🔹 The Lean FRO and the Mathlib Initiative reviewed the proof written in the Lean computer language and said they have \"full confidence\" it is correct.\n🔹 Alpöge says Claude helped him build the solution over about six weeks. The problem was first posed in 1859.\n🔹 The Clay Mathematics Institute's $1 million prize still requires publication and years of review by other mathematicians.\n\n💬 Could AI help solve other big science mysteries? 👇\n\nSources: The Guardian, Bloomberg\n\n#GlobalEye #RiemannHypothesis #Anthropic #Claude #AI #Mathematics",
+    "photo_needed": "Levent Alpöge, face clearly visible (or the Anthropic logo / Claude logo sign, or a chalkboard with the Riemann zeta function). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude"
+    ],
+    "email_thread_id": "1a2028834f01e8a2",
+    "status": "expired",
+    "expired_at": "2026-11-24 23:10 PKT"
+  },
+  {
+    "slug": "2026-11-22-indonesia-candy-factory-fire",
+    "created": "2026-11-22 16:20 PKT",
+    "headline": "[Deadly Fire!] Indonesia Candy Factory Blaze Kills at Least 3, [Dozens Missing]",
+    "sub": "Rescuers search the factory west of Jakarta",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🔥 Deadly Fire! Indonesia Candy Factory Blaze Kills at Least 3, Dozens Missing\n\nA fire broke out on Saturday afternoon at a candy factory in Cikande, Banten province, west of Jakarta, Indonesia. On Sunday, rescue officials said at least three workers were killed and dozens are still missing.\n\n🔹 The factory makes Milkita candy. A company representative said about 50 people are still not accounted for. Police said seven body bags have been recovered so far.\n🔹 Four injured workers were rescued. Parts of the roof collapsed, and heat inside the building is slowing the search.\n🔹 The cause of the fire is not yet known. Officials have opened an investigation.\n\n💬 What should factories do to keep workers safe from fire? 👇\n\nSources: Reuters, AFP, ABC News\n\n#GlobalEye #Indonesia #FactoryFire #Banten #Jakarta #WorldNews",
+    "photo_needed": "The burned candy factory in Cikande, Banten, Indonesia, or firefighters and rescue workers at the scene. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://bdnews24.com/world/asia-pacific/k2q7g1k0zo",
+      "https://www.dawn.com/news/2046306/three-dead-36-missing-after-indonesia-factory-fire",
+      "https://www.abc.net.au/news/2026-11-22/bodies-recovered-after-indonesian-factory-fire/107414720"
+    ],
+    "email_thread_id": "1a202f5055cdc571",
+    "status": "expired",
+    "expired_at": "2026-11-24 23:10 PKT"
   }
 ]
