@@ -1,104 +1,71 @@
 [
- {
-  "slug": "2026-11-25-us-new-tariffs-16-partners",
-  "created": "2026-11-25 07:20 PKT",
-  "headline": "[Trade War Returns?] US Plans New Tariffs on EU, China and [14 Others]",
-  "sub": "Comes after Supreme Court struck down old tariffs",
-  "category": "politics",
-  "breaking": false,
-  "focus": 0.3,
-  "caption": "💰 Trade War Returns? US Plans New Tariffs on EU, China and 14 Others\n\nThe Trump administration is preparing to propose new tariffs on 16 trading partners, including the European Union, China, Mexico and Japan, Politico and the BBC reported on Tuesday. Trade Representative Jamieson Greer is expected to announce the plan, according to a person with knowledge of it.\n\n🔹 The tariffs are based on a US trade investigation into \"excess manufacturing capacity\" in other countries, started in March.\n🔹 The move comes after the US Supreme Court struck down Trump's earlier global tariffs in February.\n🔹 Politico reports China's overall rate will not go above 20%, and the EU's will stay below the 15% cap agreed in 2025. Countries can comment and negotiate before the rates are final.\n\n💬 How will new US tariffs affect prices where you live? 👇\n\nSources: Politico, BBC\n\n#GlobalEye #Tariffs #Trade #USA #China #EU",
-  "photo_needed": "US Trade Representative Jamieson Greer, face clearly visible (or Donald Trump at a trade/tariff event). A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.politico.com/news/2026/11/24/trump-tariffs-china-eu-mexico-manufacturing-01181685",
-   "https://www.bbc.com/news/articles/c893r9ke5p97o"
-  ],
-  "email_thread_id": "1a2107a220a404fd"
- },
- {
-  "slug": "2026-11-25-cia-odni-cyber-breach",
-  "created": "2026-11-25 07:20 PKT",
-  "headline": "[Security Alert!] Hackers Breach Unclassified [CIA] and US Intelligence System",
-  "sub": "Officials say classified systems were not hit",
-  "category": "tech",
-  "breaking": false,
-  "focus": 0.3,
-  "caption": "🔐 Security Alert! Hackers Breach Unclassified CIA and US Intelligence System\n\nHackers broke into an unclassified computer system used by the CIA and the Office of the Director of National Intelligence (ODNI), The New York Times reported on Tuesday, citing US officials. Bloomberg and the AP also reported the breach.\n\n🔹 The system is used to study public, open-source information. Some unclassified data was exposed.\n🔹 An ODNI spokesperson said there were \"no disruptions to critical capabilities or classified systems.\" The CIA declined to comment.\n🔹 Investigators have not said who was behind the attack. Reports say the problem has now been fixed.\n\n💬 Can any government system ever be fully safe from hackers? 👇\n\nSources: The New York Times, Bloomberg, AP\n\n#GlobalEye #CyberSecurity #CIA #Hacking #USA",
-  "photo_needed": "CIA headquarters building in Langley, Virginia, or the CIA seal/logo on the floor of the lobby. A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.usnews.com/news/top-news/articles/2026-11-24/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports",
-   "https://www.yahoo.com/news/us/articles/hackers-breach-unclassified-cia-odni-232208321.html",
-   "https://www.fox9.com/news/cybersecurity-breach-cia-office-director-national-intelligence"
-  ],
-  "email_thread_id": "1a2107a35b508a2c"
- },
- {
-  "slug": "2026-11-25-real-madrid-thrash-psv",
-  "created": "2026-11-25 08:15 PKT",
-  "headline": "[Comeback!] Real Madrid Thrash PSV [5-1] as Mbappé Scores Twice",
-  "sub": "Came back from 1-0 down at the Bernabéu",
-  "category": "sports",
-  "breaking": false,
-  "focus": 0.2,
-  "caption": "⚽ Comeback! Real Madrid Thrash PSV 5-1 as Mbappé Scores Twice\n\nReal Madrid beat PSV Eindhoven 5-1 in the Champions League on Tuesday night at the Santiago Bernabéu in Madrid. PSV led 1-0 at half-time, but Real scored five goals in the second half.\n\n🔹 Goals: Ivan Perišić (PSV, 32' penalty); for Real: Federico Valverde 50', Jude Bellingham 60', Kylian Mbappé 64' and 84', Vinícius Júnior 87'.\n🔹 It is Real Madrid's fifth win from five games in this season's Champions League league phase, and Al Jazeera reports it puts them provisionally top of the table.\n🔹 In other games on Tuesday, Manchester City drew 2-2 with Napoli and Arsenal drew 1-1 with Borussia Dortmund. The next Champions League games are on December 8-9.\n\n💬 Who was Real Madrid's best player tonight: Mbappé or Bellingham? 👇\n\nSources: ESPN, Al Jazeera\n\n#GlobalEye #ChampionsLeague #RealMadrid #Mbappe #Bellingham #UCL",
-  "photo_needed": "Kylian Mbappé (or Jude Bellingham) celebrating a goal for Real Madrid, face clearly visible. A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.espn.com/soccer/report/_/gameId/401915298",
-   "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv",
-   "https://sports.yahoo.com/soccer/live/champions-league-jude-bellingham-kylian-mbappe-help-real-madrid-hit-for-5-against-psv-manchester-city-arsenal-settle-for-home-draws-221509772.html"
-  ],
-  "email_thread_id": "1a210b20d1b11184"
- },
- {
-  "slug": "2026-11-25-huawei-convicted-us-trial",
-  "created": "2026-11-25 10:20 PKT",
-  "headline": "[Guilty Verdict!] US Jury Convicts Huawei on [10 of 12] Charges",
-  "sub": "Includes bank fraud and Iran sanctions",
-  "category": "tech",
-  "breaking": false,
-  "focus": 0.3,
-  "caption": "⚖️ Guilty Verdict! US Jury Convicts Huawei on 10 of 12 Charges\n\nA federal jury in Brooklyn, New York, found Chinese tech company Huawei guilty on 10 of 12 criminal charges on Tuesday, after a trial of more than two months. The charges included bank fraud, wire fraud, breaking US sanctions on Iran and conspiring to steal trade secrets from American companies.\n\n🔹 The jury cleared Huawei of two charges: racketeering conspiracy and conspiring to obstruct justice.\n🔹 Huawei's lawyer said the company was disappointed and expects to appeal. Huawei said it disputes the remaining charges.\n🔹 Judge Ann Donnelly is due to sentence the company on September 14, 2027.\n\n💬 Will this verdict change how the world sees Huawei? 👇\n\nSources: Reuters, South China Morning Post\n\n#GlobalEye #Huawei #China #USA #Tech #Iran",
-  "photo_needed": "Huawei logo sign on a Huawei building or store (or the Brooklyn federal courthouse). A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.japantimes.co.jp/business/2026/11/25/tech/china-huawei-us-iran-business/",
-   "https://scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
-   "https://www.nationthailand.com/news/world/40073898",
-   "https://www.yahoo.com/news/us/articles/huawei-found-guilty-major-us-225328401.html"
-  ],
-  "email_thread_id": "1a2111f972d05406"
- },
- {
-  "slug": "2026-11-25-pakistan-first-astronaut-shenzhou24",
-  "created": "2026-11-25 12:15 PKT",
-  "headline": "[History Made!] Pakistan's First Astronaut Blasts Off on China's [Shenzhou-24]",
-  "sub": "Heads to Tiangong space station for about a week",
-  "category": "tech",
-  "breaking": false,
-  "focus": 0.2,
-  "caption": "🚀 History Made! Pakistan's First Astronaut Blasts Off on China's Shenzhou-24\n\nPakistan Air Force pilot Muhammad Zeeshan Ali, 40, flew into space on Wednesday on China's Shenzhou-24 mission. The Long March-2F rocket lifted off at 8:21 am Beijing time (5:21 am in Pakistan) from the Jiuquan launch centre in northwest China. The China Manned Space Agency called the launch \"a complete success\" and said the crew is in good condition.\n\n🔹 He is the first Pakistani to reach Earth orbit and the first foreign astronaut to visit China's Tiangong space station. He flies with Chinese commander Tang Hongbo and flight engineer Wu Yi.\n🔹 Ali will stay about one week as a payload specialist, mainly setting up China-Pakistan science experiments, then return on the Shenzhou-23 spacecraft.\n🔹 The flight comes from a space deal China and Pakistan signed in February 2025. Ali and fellow pilot Khurram Daud trained in China, and Ali was chosen.\n\n💬 Would you like to go to space one day? 👇\n\nSources: Reuters, Al Jazeera, Anadolu Agency\n\n#GlobalEye #Pakistan #China #Space #Shenzhou24 #ZeeshanAli",
-  "photo_needed": "Muhammad Zeeshan Ali in his spacesuit (face clearly visible), or the Shenzhou-24 rocket launch. A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.usnews.com/news/world/articles/2026-11-24/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut",
-   "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station",
-   "https://www.aa.com.tr/en/science-technology/china-launches-3-member-space-mission-with-pakistan-s-1st-astronaut/4136538"
-  ],
-  "email_thread_id": "1a2118d9a0d1b590"
- },
- {
-  "slug": "2026-11-25-indonesia-gold-mine-flooded",
-  "created": "2026-11-25 14:15 PKT",
-  "headline": "[Race Against Time] Dozens Trapped in Flooded [Indonesia Gold Mine]",
-  "sub": "Heavy rain sent a river into the shaft",
-  "category": "climate",
-  "breaking": false,
-  "focus": 0.3,
-  "caption": "⛏️ Race Against Time: Dozens Trapped in Flooded Indonesia Gold Mine\n\nRescuers in Indonesia are searching for miners trapped in a flooded, unlicensed gold mine in the Pongkor area of Bogor, West Java, about 60 km south of Jakarta. Heavy rain on Monday made a nearby river overflow into the mine. West Java police said on Wednesday that 26 people have yet to be brought out; the AP reports 29 miners are believed trapped.\n\n🔹 The miners are stuck in a shaft about 100 metres deep. Rescuers say access is narrow and the ground is slippery and dark.\n🔹 Rescue teams brought water pumps, but officials say the water has not gone down and may take a long time to drain. There is no information yet on the miners' condition.\n🔹 AFP reports 11 other miners left the mine safely before the water came in.\n\n💬 Should governments do more to stop unsafe illegal mining? 👇\n\nSources: AP, AFP, Reuters, Al Jazeera\n\n#GlobalEye #Indonesia #MineRescue #Bogor #WestJava",
-  "photo_needed": "Indonesian search and rescue team (BASARNAS) at work, or the Pongkor gold mining hills in Bogor, West Java. A big, clear, landscape photo works best.",
-  "sources": [
-   "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine",
-   "https://ca.news.yahoo.com/29-miners-believed-trapped-flooding-083851369.html",
-   "https://www.malaymail.com/news/world/2026/11/25/race-against-time-to-save-26-workers-trapped-in-flooded-illegal-gold-mine-in-indonesia/244693"
-  ],
-  "email_thread_id": "1a211fb16a8c6f3f"
- }
+  {
+    "slug": "2026-11-25-real-madrid-thrash-psv",
+    "created": "2026-11-25 08:15 PKT",
+    "headline": "[Comeback!] Real Madrid Thrash PSV [5-1] as Mbappé Scores Twice",
+    "sub": "Came back from 1-0 down at the Bernabéu",
+    "category": "sports",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "⚽ Comeback! Real Madrid Thrash PSV 5-1 as Mbappé Scores Twice\n\nReal Madrid beat PSV Eindhoven 5-1 in the Champions League on Tuesday night at the Santiago Bernabéu in Madrid. PSV led 1-0 at half-time, but Real scored five goals in the second half.\n\n🔹 Goals: Ivan Perišić (PSV, 32' penalty); for Real: Federico Valverde 50', Jude Bellingham 60', Kylian Mbappé 64' and 84', Vinícius Júnior 87'.\n🔹 It is Real Madrid's fifth win from five games in this season's Champions League league phase, and Al Jazeera reports it puts them provisionally top of the table.\n🔹 In other games on Tuesday, Manchester City drew 2-2 with Napoli and Arsenal drew 1-1 with Borussia Dortmund. The next Champions League games are on December 8-9.\n\n💬 Who was Real Madrid's best player tonight: Mbappé or Bellingham? 👇\n\nSources: ESPN, Al Jazeera\n\n#GlobalEye #ChampionsLeague #RealMadrid #Mbappe #Bellingham #UCL",
+    "photo_needed": "Kylian Mbappé (or Jude Bellingham) celebrating a goal for Real Madrid, face clearly visible. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.espn.com/soccer/report/_/gameId/401915298",
+      "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv",
+      "https://sports.yahoo.com/soccer/live/champions-league-jude-bellingham-kylian-mbappe-help-real-madrid-hit-for-5-against-psv-manchester-city-arsenal-settle-for-home-draws-221509772.html"
+    ],
+    "email_thread_id": "1a210b20d1b11184"
+  },
+  {
+    "slug": "2026-11-25-huawei-convicted-us-trial",
+    "created": "2026-11-25 10:20 PKT",
+    "headline": "[Guilty Verdict!] US Jury Convicts Huawei on [10 of 12] Charges",
+    "sub": "Includes bank fraud and Iran sanctions",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚖️ Guilty Verdict! US Jury Convicts Huawei on 10 of 12 Charges\n\nA federal jury in Brooklyn, New York, found Chinese tech company Huawei guilty on 10 of 12 criminal charges on Tuesday, after a trial of more than two months. The charges included bank fraud, wire fraud, breaking US sanctions on Iran and conspiring to steal trade secrets from American companies.\n\n🔹 The jury cleared Huawei of two charges: racketeering conspiracy and conspiring to obstruct justice.\n🔹 Huawei's lawyer said the company was disappointed and expects to appeal. Huawei said it disputes the remaining charges.\n🔹 Judge Ann Donnelly is due to sentence the company on September 14, 2027.\n\n💬 Will this verdict change how the world sees Huawei? 👇\n\nSources: Reuters, South China Morning Post\n\n#GlobalEye #Huawei #China #USA #Tech #Iran",
+    "photo_needed": "Huawei logo sign on a Huawei building or store (or the Brooklyn federal courthouse). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.japantimes.co.jp/business/2026/11/25/tech/china-huawei-us-iran-business/",
+      "https://scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+      "https://www.nationthailand.com/news/world/40073898",
+      "https://www.yahoo.com/news/us/articles/huawei-found-guilty-major-us-225328401.html"
+    ],
+    "email_thread_id": "1a2111f972d05406"
+  },
+  {
+    "slug": "2026-11-25-pakistan-first-astronaut-shenzhou24",
+    "created": "2026-11-25 12:15 PKT",
+    "headline": "[History Made!] Pakistan's First Astronaut Blasts Off on China's [Shenzhou-24]",
+    "sub": "Heads to Tiangong space station for about a week",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "🚀 History Made! Pakistan's First Astronaut Blasts Off on China's Shenzhou-24\n\nPakistan Air Force pilot Muhammad Zeeshan Ali, 40, flew into space on Wednesday on China's Shenzhou-24 mission. The Long March-2F rocket lifted off at 8:21 am Beijing time (5:21 am in Pakistan) from the Jiuquan launch centre in northwest China. The China Manned Space Agency called the launch \"a complete success\" and said the crew is in good condition.\n\n🔹 He is the first Pakistani to reach Earth orbit and the first foreign astronaut to visit China's Tiangong space station. He flies with Chinese commander Tang Hongbo and flight engineer Wu Yi.\n🔹 Ali will stay about one week as a payload specialist, mainly setting up China-Pakistan science experiments, then return on the Shenzhou-23 spacecraft.\n🔹 The flight comes from a space deal China and Pakistan signed in February 2025. Ali and fellow pilot Khurram Daud trained in China, and Ali was chosen.\n\n💬 Would you like to go to space one day? 👇\n\nSources: Reuters, Al Jazeera, Anadolu Agency\n\n#GlobalEye #Pakistan #China #Space #Shenzhou24 #ZeeshanAli",
+    "photo_needed": "Muhammad Zeeshan Ali in his spacesuit (face clearly visible), or the Shenzhou-24 rocket launch. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.usnews.com/news/world/articles/2026-11-24/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut",
+      "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station",
+      "https://www.aa.com.tr/en/science-technology/china-launches-3-member-space-mission-with-pakistan-s-1st-astronaut/4136538"
+    ],
+    "email_thread_id": "1a2118d9a0d1b590"
+  },
+  {
+    "slug": "2026-11-25-indonesia-gold-mine-flooded",
+    "created": "2026-11-25 14:15 PKT",
+    "headline": "[Race Against Time] Dozens Trapped in Flooded [Indonesia Gold Mine]",
+    "sub": "Heavy rain sent a river into the shaft",
+    "category": "climate",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⛏️ Race Against Time: Dozens Trapped in Flooded Indonesia Gold Mine\n\nRescuers in Indonesia are searching for miners trapped in a flooded, unlicensed gold mine in the Pongkor area of Bogor, West Java, about 60 km south of Jakarta. Heavy rain on Monday made a nearby river overflow into the mine. West Java police said on Wednesday that 26 people have yet to be brought out; the AP reports 29 miners are believed trapped.\n\n🔹 The miners are stuck in a shaft about 100 metres deep. Rescuers say access is narrow and the ground is slippery and dark.\n🔹 Rescue teams brought water pumps, but officials say the water has not gone down and may take a long time to drain. There is no information yet on the miners' condition.\n🔹 AFP reports 11 other miners left the mine safely before the water came in.\n\n💬 Should governments do more to stop unsafe illegal mining? 👇\n\nSources: AP, AFP, Reuters, Al Jazeera\n\n#GlobalEye #Indonesia #MineRescue #Bogor #WestJava",
+    "photo_needed": "Indonesian search and rescue team (BASARNAS) at work, or the Pongkor gold mining hills in Bogor, West Java. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine",
+      "https://ca.news.yahoo.com/29-miners-believed-trapped-flooding-083851369.html",
+      "https://www.malaymail.com/news/world/2026/11/25/race-against-time-to-save-26-workers-trapped-in-flooded-illegal-gold-mine-in-indonesia/244693"
+    ],
+    "email_thread_id": "1a211fb16a8c6f3f"
+  }
 ]
