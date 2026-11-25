@@ -1373,5 +1373,24 @@
     "email_thread_id": "1a2111f972d05406",
     "status": "expired",
     "expired_at": "2026-11-25 19:12 PKT"
+  },
+  {
+    "slug": "2026-11-25-pakistan-first-astronaut-shenzhou24",
+    "created": "2026-11-25 12:15 PKT",
+    "headline": "[History Made!] Pakistan's First Astronaut Blasts Off on China's [Shenzhou-24]",
+    "sub": "Heads to Tiangong space station for about a week",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.2,
+    "caption": "🚀 History Made! Pakistan's First Astronaut Blasts Off on China's Shenzhou-24\n\nPakistan Air Force pilot Muhammad Zeeshan Ali, 40, flew into space on Wednesday on China's Shenzhou-24 mission. The Long March-2F rocket lifted off at 8:21 am Beijing time (5:21 am in Pakistan) from the Jiuquan launch centre in northwest China. The China Manned Space Agency called the launch \"a complete success\" and said the crew is in good condition.\n\n🔹 He is the first Pakistani to reach Earth orbit and the first foreign astronaut to visit China's Tiangong space station. He flies with Chinese commander Tang Hongbo and flight engineer Wu Yi.\n🔹 Ali will stay about one week as a payload specialist, mainly setting up China-Pakistan science experiments, then return on the Shenzhou-23 spacecraft.\n🔹 The flight comes from a space deal China and Pakistan signed in February 2025. Ali and fellow pilot Khurram Daud trained in China, and Ali was chosen.\n\n💬 Would you like to go to space one day? 👇\n\nSources: Reuters, Al Jazeera, Anadolu Agency\n\n#GlobalEye #Pakistan #China #Space #Shenzhou24 #ZeeshanAli",
+    "photo_needed": "Muhammad Zeeshan Ali in his spacesuit (face clearly visible), or the Shenzhou-24 rocket launch. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.usnews.com/news/world/articles/2026-11-24/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut",
+      "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station",
+      "https://www.aa.com.tr/en/science-technology/china-launches-3-member-space-mission-with-pakistan-s-1st-astronaut/4136538"
+    ],
+    "email_thread_id": "1a2118d9a0d1b590",
+    "status": "expired",
+    "expired_at": "2026-11-25 22:11 PKT"
   }
 ]
