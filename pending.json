@@ -1,1 +1,35 @@
-[]
+[
+ {
+  "slug": "2026-11-25-us-new-tariffs-16-partners",
+  "created": "2026-11-25 07:20 PKT",
+  "headline": "[Trade War Returns?] US Plans New Tariffs on EU, China and [14 Others]",
+  "sub": "Comes after Supreme Court struck down old tariffs",
+  "category": "politics",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "💰 Trade War Returns? US Plans New Tariffs on EU, China and 14 Others\n\nThe Trump administration is preparing to propose new tariffs on 16 trading partners, including the European Union, China, Mexico and Japan, Politico and the BBC reported on Tuesday. Trade Representative Jamieson Greer is expected to announce the plan, according to a person with knowledge of it.\n\n🔹 The tariffs are based on a US trade investigation into \"excess manufacturing capacity\" in other countries, started in March.\n🔹 The move comes after the US Supreme Court struck down Trump's earlier global tariffs in February.\n🔹 Politico reports China's overall rate will not go above 20%, and the EU's will stay below the 15% cap agreed in 2025. Countries can comment and negotiate before the rates are final.\n\n💬 How will new US tariffs affect prices where you live? 👇\n\nSources: Politico, BBC\n\n#GlobalEye #Tariffs #Trade #USA #China #EU",
+  "photo_needed": "US Trade Representative Jamieson Greer, face clearly visible (or Donald Trump at a trade/tariff event). A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.politico.com/news/2026/11/24/trump-tariffs-china-eu-mexico-manufacturing-01181685",
+   "https://www.bbc.com/news/articles/c893r9ke5p97o"
+  ],
+  "email_thread_id": ""
+ },
+ {
+  "slug": "2026-11-25-cia-odni-cyber-breach",
+  "created": "2026-11-25 07:20 PKT",
+  "headline": "[Security Alert!] Hackers Breach Unclassified [CIA] and US Intelligence System",
+  "sub": "Officials say classified systems were not hit",
+  "category": "tech",
+  "breaking": false,
+  "focus": 0.3,
+  "caption": "🔐 Security Alert! Hackers Breach Unclassified CIA and US Intelligence System\n\nHackers broke into an unclassified computer system used by the CIA and the Office of the Director of National Intelligence (ODNI), The New York Times reported on Tuesday, citing US officials. Bloomberg and the AP also reported the breach.\n\n🔹 The system is used to study public, open-source information. Some unclassified data was exposed.\n🔹 An ODNI spokesperson said there were \"no disruptions to critical capabilities or classified systems.\" The CIA declined to comment.\n🔹 Investigators have not said who was behind the attack. Reports say the problem has now been fixed.\n\n💬 Can any government system ever be fully safe from hackers? 👇\n\nSources: The New York Times, Bloomberg, AP\n\n#GlobalEye #CyberSecurity #CIA #Hacking #USA",
+  "photo_needed": "CIA headquarters building in Langley, Virginia, or the CIA seal/logo on the floor of the lobby. A big, clear, landscape photo works best.",
+  "sources": [
+   "https://www.usnews.com/news/top-news/articles/2026-11-24/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-nyt-reports",
+   "https://www.yahoo.com/news/us/articles/hackers-breach-unclassified-cia-odni-232208321.html",
+   "https://www.fox9.com/news/cybersecurity-breach-cia-office-director-national-intelligence"
+  ],
+  "email_thread_id": ""
+ }
+]
