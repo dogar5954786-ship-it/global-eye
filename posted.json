@@ -1353,5 +1353,25 @@
     "email_thread_id": "1a210b20d1b11184",
     "status": "expired",
     "expired_at": "2026-11-25 17:12 PKT"
+  },
+  {
+    "slug": "2026-11-25-huawei-convicted-us-trial",
+    "created": "2026-11-25 10:20 PKT",
+    "headline": "[Guilty Verdict!] US Jury Convicts Huawei on [10 of 12] Charges",
+    "sub": "Includes bank fraud and Iran sanctions",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚖️ Guilty Verdict! US Jury Convicts Huawei on 10 of 12 Charges\n\nA federal jury in Brooklyn, New York, found Chinese tech company Huawei guilty on 10 of 12 criminal charges on Tuesday, after a trial of more than two months. The charges included bank fraud, wire fraud, breaking US sanctions on Iran and conspiring to steal trade secrets from American companies.\n\n🔹 The jury cleared Huawei of two charges: racketeering conspiracy and conspiring to obstruct justice.\n🔹 Huawei's lawyer said the company was disappointed and expects to appeal. Huawei said it disputes the remaining charges.\n🔹 Judge Ann Donnelly is due to sentence the company on September 14, 2027.\n\n💬 Will this verdict change how the world sees Huawei? 👇\n\nSources: Reuters, South China Morning Post\n\n#GlobalEye #Huawei #China #USA #Tech #Iran",
+    "photo_needed": "Huawei logo sign on a Huawei building or store (or the Brooklyn federal courthouse). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.japantimes.co.jp/business/2026/11/25/tech/china-huawei-us-iran-business/",
+      "https://scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom",
+      "https://www.nationthailand.com/news/world/40073898",
+      "https://www.yahoo.com/news/us/articles/huawei-found-guilty-major-us-225328401.html"
+    ],
+    "email_thread_id": "1a2111f972d05406",
+    "status": "expired",
+    "expired_at": "2026-11-25 19:12 PKT"
   }
 ]
