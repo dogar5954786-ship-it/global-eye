@@ -1486,5 +1486,24 @@
     "email_thread_id": "1a215a17beef4e1a",
     "status": "expired",
     "expired_at": "2026-11-26 16:12 PKT"
+  },
+  {
+    "slug": "2026-11-26-storm-delays-macys-parade",
+    "created": "2026-11-26 08:15 PKT",
+    "headline": "[Storm Alert!] Macy's Thanksgiving Parade Moved to [Saturday] as Storm Hits US",
+    "sub": "Wind gusts up to 60 mph expected in NYC",
+    "category": "climate",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🌧️ Storm Alert! Macy's Thanksgiving Parade Moved to Saturday as Storm Hits US\n\nNew York's famous Macy's Thanksgiving Day Parade has been moved from Thursday to Saturday because of forecasts of heavy rain and strong winds, CNN reported, citing a city official. A powerful storm is bringing rain, wind and coastal flooding to the US East Coast on the Thanksgiving holiday.\n\n🔹 The parade will now start at 8:30 am (New York time) on Saturday. In Philadelphia, organisers decided not to fly the parade balloons because of the weather.\n🔹 New York Governor Kathy Hochul warned of heavy rain, coastal flooding and wind gusts of up to 60 mph in New York City, Long Island and the lower Hudson Valley. New Jersey declared a statewide state of emergency.\n🔹 Coastal flood warnings cover large parts of the East Coast, and the storm comes as more than 80 million Americans travel for the holiday.\n\n💬 Would you still go out to watch a parade in a storm like this? 👇\n\nSources: CNN, NBC News, ABC News\n\n#GlobalEye #Thanksgiving #MacysParade #NewYork #Storm #Weather",
+    "photo_needed": "Macy's Thanksgiving Day Parade balloons in New York, or storm waves / coastal flooding on the US East Coast. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.tribuneindia.com/news/usa-news/us-severe-storms-disrupt-thanksgiving-celebrations-macys-parade-postponed-to-saturday/",
+      "https://www.nbcnews.com/weather/storms/live-blog/thanksgiving-travel-weather-storms-forecast-wednesday-rcna611082",
+      "https://abcnews.com/US/powerful-storm-threatens-east-coast-hurricane-level-flooding/story?id=138435983"
+    ],
+    "email_thread_id": "1a215d7e8710a018",
+    "status": "expired",
+    "expired_at": "2026-11-26 17:12 PKT"
   }
 ]
