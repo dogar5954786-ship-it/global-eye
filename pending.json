@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "slug": "2026-11-26-ukraine-hits-russian-airbase",
+    "created": "2026-11-26 07:20 PKT",
+    "headline": "[Deep Strike!] Ukraine Says It Hit [5 Russian Warplanes] at Air Base",
+    "sub": "Three MiG-31s and two Su-34s damaged",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "✈️ Deep Strike! Ukraine Says It Hit 5 Russian Warplanes at Air Base\n\nUkraine's General Staff said on Wednesday that it struck the Savasleyka air base in Russia's Nizhny Novgorod region, east of Moscow. It said five planes that Russia uses to launch missiles and bombs at Ukraine were damaged.\n\n🔹 Ukraine says the planes hit were three MiG-31 jets, used to fire hypersonic missiles, and two Su-34 fighter-bombers. It says they are out of action \"for some time\".\n🔹 The General Staff said damage checks are still going on and more aircraft may have been hit. Russia did not immediately comment, and the damage has not been independently confirmed.\n🔹 On the same night, Russian attacks hit Ukraine's power and gas sites, causing outages in five regions, Ukrainian officials said.\n\n💬 Can long-range strikes change the course of this war? 👇\n\nSources: Reuters (via Al Jazeera), Kyiv Independent\n\n#GlobalEye #Ukraine #Russia #UkraineWar #MiG31 #NizhnyNovgorod",
+    "photo_needed": "A Russian MiG-31 or Su-34 military jet (on a runway or in the air), or a Russian air base. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck",
+      "https://www.rte.ie/news/ukraine/2026/1125/1600650-ukraine-russia/",
+      "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/"
+    ],
+    "email_thread_id": ""
+  },
+  {
+    "slug": "2026-11-26-lille-stun-bayern",
+    "created": "2026-11-26 07:20 PKT",
+    "headline": "[Shock Defeat!] Lille Beat Bayern Munich [2-1] to End Unbeaten Season",
+    "sub": "Kane-less Bayern fall to 15th in UCL",
+    "category": "sports",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚽ Shock Defeat! Lille Beat Bayern Munich 2-1 to End Unbeaten Season\n\nLille came from behind to beat Bayern Munich 2-1 in the Champions League in France on Wednesday. It was Bayern's first defeat in any competition this season and Lille's first win of the league phase.\n\n🔹 Dayot Upamecano headed Bayern in front after 15 minutes. Ayase Ueda equalised just after the hour, and four minutes later a shot hit the post and went in off Aleksandar Pavlovic for an own goal.\n🔹 Bayern played without Harry Kane, who is out for several months with a serious ankle injury, and Michael Olise, who has a foot problem.\n🔹 Bayern drop to 15th in the league phase table with three games left. Lille move to within two points of the knockout places.\n\n💬 Can Bayern still go far in the Champions League without Kane? 👇\n\nSources: AFP, Bundesliga.com\n\n#GlobalEye #ChampionsLeague #BayernMunich #Lille #UCL #Football",
+    "photo_needed": "Lille players celebrating, or Bayern Munich players looking disappointed (from the Lille v Bayern match on 25 Nov). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.thestandard.com.hk/football/article/349692/Depleted-Bayern-beaten-by-Lille-in-Champions-League",
+      "https://www.beinsports.com/en-mena/football/uefa-champions-league/articles-video/depleted-bayern-beaten-by-lille-in-champions-league-2026-11-25",
+      "https://www.bundesliga.com/en/bundesliga/news/losc-lille-metropole-bayern-munich-match-report-highlights-matchday-5-40149"
+    ],
+    "email_thread_id": ""
+  }
+]
