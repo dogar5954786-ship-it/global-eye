@@ -49,5 +49,22 @@
       "https://thehill.com/homenews/ap/ap-international/ap-a-flood-that-hit-an-unauthorized-gold-mine-in-indonesia-left-9-dead-17-believed-trapped/"
     ],
     "email_thread_id": "1a217221f6ed3520"
+  },
+  {
+    "slug": "2026-11-26-spacex-million-satellites",
+    "created": "2026-11-26 16:20 PKT",
+    "headline": "[Historic First!] US Approves [1 Million] SpaceX Satellites for Space Data Centres",
+    "sub": "SpaceX plans AI satellites from 2028",
+    "category": "tech",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🛰️ Historic First! US Approves 1 Million SpaceX Satellites for Space Data Centres\n\nThe US Federal Communications Commission (FCC) has approved SpaceX's request to launch up to 1 million satellites that will work as data centres in space. FCC Chairman Brendan Carr announced the decision on Wednesday, calling it \"a historic first\".\n\n🔹 The satellites are \"orbital compute modules\": computers in space that will run AI and connect with other satellites, including SpaceX's Starlink network.\n🔹 SpaceX first asked the FCC for approval in January. In its filings, the company said it could start launching the AI computing satellites as early as 2028.\n🔹 Elon Musk replied to Carr: \"Much appreciated. This will be a great asset to America and the world.\"\n\n💬 Would you trust data centres in space? 👇\n\nSources: CBS News, NBC News, Newsweek\n\n#GlobalEye #SpaceX #ElonMusk #FCC #AI #Satellites",
+    "photo_needed": "SpaceX Starship rocket or a Starlink satellite in space, or Elon Musk with SpaceX logo (face clearly visible). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.cbsnews.com/news/spacex-fcc-approval-data-centers-space/",
+      "https://www.nbcnews.com/science/space/spacex-fcc-authorizes-1-million-satellites-data-centers-space-rcna611341",
+      "https://www.newsweek.com/fcc-approves-1-million-spacex-satellites-as-china-ai-race-heats-up-12769380"
+    ],
+    "email_thread_id": ""
   }
 ]
