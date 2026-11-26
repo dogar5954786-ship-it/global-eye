@@ -1524,5 +1524,24 @@
     "email_thread_id": "1a216b2d09ff681d",
     "status": "expired",
     "expired_at": "2026-11-26 21:12 PKT"
+  },
+  {
+    "slug": "2026-11-26-indonesia-mine-flood-deaths",
+    "created": "2026-11-26 14:15 PKT",
+    "headline": "[Tragedy Deepens] Indonesia Gold Mine Flood Kills [At Least 16]",
+    "sub": "At least 10 miners still missing",
+    "category": "climate",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⛏️ Tragedy Deepens: Indonesia Gold Mine Flood Kills At Least 16\n\nRescuers have recovered at least 16 bodies from a flooded, unlicensed gold mine in the Pongkor area of Bogor, West Java, about 60 km south of Jakarta, the AP reported on Thursday. Heavy rain late on Monday made the Ciseureuh River overflow into a mine shaft about 100 metres deep.\n\n🔹 At least 10 miners are still missing, according to West Java police. Police said that by the fourth day, finding survivors was becoming less likely.\n🔹 325 rescuers are working in two shafts using ropes and water pumps. Police said 11 miners got out safely before the water came in.\n🔹 State mining company PT Antam said the flood was not linked to its own Pongkor operations.\n\n💬 Should governments do more to stop unsafe illegal mining? 👇\n\nSources: AP, Reuters, Al Jazeera\n\n#GlobalEye #Indonesia #MineFlood #WestJava #Bogor",
+    "photo_needed": "Indonesian search and rescue team (BASARNAS) working at the flooded mine, or the Pongkor gold mining hills in Bogor, West Java. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify",
+      "https://www.arabnews.com/world/rescuers-battle-dark-flooded-indonesian-mine-as-10-remain-missing-and-16-dead-3014096",
+      "https://thehill.com/homenews/ap/ap-international/ap-a-flood-that-hit-an-unauthorized-gold-mine-in-indonesia-left-9-dead-17-believed-trapped/"
+    ],
+    "email_thread_id": "1a217221f6ed3520",
+    "status": "expired",
+    "expired_at": "2026-11-26 23:10 PKT"
   }
 ]
