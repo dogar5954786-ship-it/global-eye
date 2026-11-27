@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "slug": "2026-11-27-italians-killed-kuwait-drones",
+    "created": "2026-11-27 07:30 PKT",
+    "headline": "[Deadly Strike!] Drone Attack on Kuwait Kills [2 Italian Technicians]",
+    "sub": "Kuwait blames Iran; Iran denies role",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "⚠️ Deadly Strike! Drone Attack on Kuwait Kills 2 Italian Technicians\n\nTwo Italian technicians were killed on Thursday when drones hit military sites in Kuwait, including an air-defence station where they were working. Kuwait's defence ministry called it an Iranian attack. Iran has denied any role.\n\n🔹 Italian Foreign Minister Antonio Tajani said the two men worked for the defence company Rheinmetall Italia. Two other people were injured: a Pakistani national and a Kuwaiti army captain.\n🔹 Iran's Foreign Minister Abbas Araghchi told Kuwait and Italy that Iran had \"no role or involvement whatsoever\" and offered to help find the origin of the attack.\n🔹 Italian Prime Minister Giorgia Meloni said her thoughts were with all those affected and their families.\n\n💬 What should be done to keep workers and civilians safe in the Gulf? 👇\n\nSources: Reuters, AP, CNN\n\n#GlobalEye #Kuwait #Italy #Iran #MiddleEast",
+    "photo_needed": "Kuwait City skyline, or Kuwaiti air-defence / military site, or Italian FM Antonio Tajani speaking (face clearly visible). A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
+      "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl",
+      "https://www.newarab.com/news/iran-war-two-italians-killed-drone-attack-kuwait",
+      "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089"
+    ],
+    "email_thread_id": ""
+  },
+  {
+    "slug": "2026-11-27-jazan-refinery-strike",
+    "created": "2026-11-27 07:30 PKT",
+    "headline": "[Refinery Hit!] Strike on Saudi [Jazan Refinery] Kills One Worker",
+    "sub": "Coalition blames Houthis; operations briefly halted",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🛢️ Refinery Hit! Strike on Saudi Jazan Refinery Kills One Worker\n\nAn aerial projectile hit the Jazan oil refinery on Saudi Arabia's Red Sea coast on Thursday, killing one worker and injuring several others, Saudi Arabia's Energy Ministry said. The worker who died was from Nepal.\n\n🔹 The strike started a fire and briefly stopped some operations. The refinery, near the border with Yemen, is built to process up to 400,000 barrels of crude oil a day.\n🔹 The Saudi-led coalition said Yemen's Houthis carried out the attack, and that it destroyed the missile launcher used, in Hodeidah. There was no immediate statement from the Houthis.\n🔹 Coalition spokesman Turki al-Maliki warned that attacks on civilians and civilian sites \"would be met with a firm military response\".\n\n💬 Will attacks on oil sites push up fuel prices where you live? 👇\n\nSources: Reuters, Al Jazeera, CNN\n\n#GlobalEye #SaudiArabia #Jazan #Houthis #Yemen #Oil",
+    "photo_needed": "The Saudi Aramco Jazan refinery (any recent photo, or with smoke/fire from 26 Nov), or an oil refinery in Saudi Arabia. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations",
+      "https://www.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl",
+      "https://www.arabnews.com/saudi-arabia/houthi-attack-on-saudi-arabias-jazan-refinery-kills-nepali-worker-3014153"
+    ],
+    "email_thread_id": ""
+  }
+]
