@@ -1,0 +1,1 @@
+Photo needed: Turkish President Recep Tayyip Erdogan with Saudi Crown Prince Mohammed bin Salman and Pakistan PM Shehbaz Sharif (e.g. the Mecca signing in August), or Erdogan alone, faces clearly visible. A big, clear, landscape photo works best.
