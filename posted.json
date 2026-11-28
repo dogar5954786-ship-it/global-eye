@@ -1754,5 +1754,23 @@
     "email_thread_id": "1a21dfec02b522fb",
     "status": "expired",
     "expired_at": "2026-11-28 07:12 PKT"
+  },
+  {
+    "slug": "2026-11-28-canary-islands-migrant-boat",
+    "created": "2026-11-28 07:15 PKT",
+    "headline": "[Tragedy at Sea!] Migrant Boat Found Off Spain's Canary Islands With [14 Dead]",
+    "sub": "90 rescued near El Hierro island",
+    "category": "world",
+    "breaking": false,
+    "focus": 0.3,
+    "caption": "🌊 Tragedy at Sea! Migrant Boat Found Off Spain's Canary Islands With 14 Dead\n\nFourteen people died on a migrant boat found adrift about 72 km south of El Hierro, one of Spain's Canary Islands, on Friday, Spanish news agency EFE reported. Ninety people on board were rescued by Spain's sea rescue service, the Civil Guard and a helicopter.\n\n🔹 Six people in serious condition were flown by helicopter to hospital on El Hierro. The other 84 survivors were taken by boat to the port of La Restinga.\n🔹 According to EFE and El País, the boat left Banjul in The Gambia 10 days earlier, and its engine had failed three days before it was found.\n🔹 Canary Islands leader Fernando Clavijo said the emergency \"doesn't start on El Hierro, but on the shores of Senegal and Gambia, where we have to act.\" More than 2,100 people arrived on the islands earlier this week, most of them on El Hierro.\n\n💬 What can be done to make this sea route safer? 👇\n\nSources: Reuters, EFE\n\n#GlobalEye #Spain #CanaryIslands #ElHierro #Migration #Atlantic",
+    "photo_needed": "The migrant boat or rescue scene at El Hierro / La Restinga port, Canary Islands (from a news agency photo), or a general photo of El Hierro island, Spain. A big, clear, landscape photo works best.",
+    "sources": [
+      "https://www.rte.ie/news/2026/1128/1600975-canary-islands-boat/",
+      "https://www.gmanetwork.com/news/topstories/world/1011019/fourteen-found-dead-on-migrant-boat-off-spain-s-canary-islands/story/",
+      "https://english.news.cn/20261128/a1c8aa9270544fa7b1f4c3b608d86cae/c.html"
+    ],
+    "email_thread_id": "",
+    "status": "expired"
   }
 ]
