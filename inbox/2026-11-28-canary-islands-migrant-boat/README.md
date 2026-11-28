@@ -1,0 +1,1 @@
+Photo needed: The migrant boat or rescue scene at El Hierro / La Restinga port, Canary Islands (from a news agency photo), or a general photo of El Hierro island, Spain. A big, clear, landscape photo works best.
